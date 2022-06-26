@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey! Nice to meet you! I'm YuMin.
+### はじめまして！ユミンです。 👋
 - 🔭 I’m currently working on Yeungjin University and I graduated Chungnam Samsung Academy
 - 🌱 I’m currently learning ![HTML5] ![CSS3] ![JavaScript] ![React] ![Node] ![Git]
 <!--
