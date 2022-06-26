@@ -1,6 +1,8 @@
 ### Hey! Nice to meet you! I'm YuMin.
 ### はじめまして！ユミンです。 👋
-- 🔭 I’m currently working on Yeungjin University and I graduated Chungnam Samsung Academy
+- 🔭 I’m currently enrolled in <img src="https://user-images.githubusercontent.com/55650732/175797289-fe50314b-5259-4c5f-8642-55eff2b76cb5.png" width="60">Yeungjin University  
+and I graduated 
+<img src="https://user-images.githubusercontent.com/55650732/175797055-ea9cf843-da6c-4a4e-90d5-00f2691858fe.png" width="30"> CNSA(Chungnam Samsung Academy)
 - 🌱 I’m currently learning 
   - ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
    ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3) 
