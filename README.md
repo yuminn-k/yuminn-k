@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYuMinKim&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYuMinKim&show_icons=true&theme=tokyonight)
 ### Hey! Nice to meet you! I'm YuMin.
 ### はじめまして！ユミンです。 👋
 - 🔭 I’m currently enrolled in <img src="https://user-images.githubusercontent.com/55650732/175797289-fe50314b-5259-4c5f-8642-55eff2b76cb5.png" width="60">Yeungjin University  
