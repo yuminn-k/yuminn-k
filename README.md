@@ -5,7 +5,7 @@
 and I graduated 
 <img src="https://user-images.githubusercontent.com/55650732/175797055-ea9cf843-da6c-4a4e-90d5-00f2691858fe.png" width="30"> CNSA(Chungnam Samsung Academy)
 - 📫 [https://github.com/devYuMinKim/my_algorithm_list] I commit algorithms everyday that I studied
-- ⚡Skill Stack
+- ⚡ Skill Stack
   - ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1&color=%23FFCE5A) 
