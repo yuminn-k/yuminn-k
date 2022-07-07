@@ -15,7 +15,7 @@ and I graduated
   - ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react) 
 - 🤔 And I will learn
   - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- [<img src="https://user-images.githubusercontent.com/55650732/175800079-88663599-53d0-4f61-af63-d95de2d9a78b.png" width="18">](https://devyuminkim.github.io/) [https://devyuminkim.github.io/] This is my blog. I will upload about the things I studied. Currently in production.
+- [https://devyuminkim.github.io/] This is my blog. I will upload about the things I studied. Currently in production.
 
 
 <!--
