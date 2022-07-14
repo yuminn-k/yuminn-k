@@ -23,7 +23,7 @@ I am a Frontend developer from South Korea 🇰🇷.
 
 - 📫 How to reach me **gimyumin40@gmail.com**
 
-- 📄 Know about my experiences [devymkim.github.io](devymkim.github.io)
+- 📄 Know about my experiences [devymkim.github.io](devymkim.github.io) (Currently in production)
 
 - 📫  I upload algorithms everyday that I studied [https://github.com/devYuMinKim/my_algorithm_list]
 
