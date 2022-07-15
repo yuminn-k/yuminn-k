@@ -16,14 +16,14 @@ I am a Frontend developer from South Korea 🇰🇷.
 
 
 ### ✨ Summary
-- 👨‍💻 All of my projects are available at [devymkim.github.io](devymkim.github.io)
+- 👨‍💻 All of my projects are available at [devymkim.github.io](https://devymkim.github.io)
 
-- 📝 I regularly write articles on [devYuMinKim.github.io](devYuMinKim.github.io)
+- 📝 I regularly write articles on [devYuMinKim.github.io](https://devYuMinKim.github.io)
      (Currently in production)
 
 - 📫 How to reach me **gimyumin40@gmail.com**
 
-- 📄 Know about my experiences [devymkim.github.io](devymkim.github.io) (Currently in production)
+- 📄 Know about my experiences [devymkim.github.io/](https://devymkim.github.io/) (Currently in production)
 
 - 📫  I upload algorithms everyday that I studied [https://github.com/devYuMinKim/my_algorithm_list]
 
