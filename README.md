@@ -27,6 +27,10 @@ I am a Frontend developer from South Korea 🇰🇷.
 
 - 📫  I upload algorithms everyday that I studied [https://github.com/devYuMinKim/my_algorithm_list]
 
+
+|[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=gimyumin40)](https://solved.ac/gimyumin40)|<img src="http://mazandi.herokuapp.com/api?handle=gimyumin40&theme=warm"/>|
+|--|--|
+</div>
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
