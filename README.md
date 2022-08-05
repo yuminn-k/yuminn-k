@@ -1,7 +1,7 @@
 Hi There 👋
 --
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devyuminkim.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A0%EB%AF%BC-%EA%B9%80-2992b8245/)](https://www.linkedin.com/in/%EC%9C%A0%EB%AF%BC-%EA%B9%80-2992b8245/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yumin-kim-2992b8245/)](https://www.linkedin.com/in/yumin-kim-2992b8245/)
   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/channel/UC9iR-pZSBvv7Mem-ZSwbmXw)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100075780008937)
   [![Instagram Badge](https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yu._.min_k/)](https://www.instagram.com/yu._.min_k/)
