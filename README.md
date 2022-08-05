@@ -11,7 +11,8 @@ Hi There 👋
 I am a Frontend developer from South Korea 🇰🇷. 
 
 ### 💫 Experience
-- **Yeungjin University Computer Information** - (_Mar 2019_ ~)
+- **zero-base Front-end 5th** - (_Jul 2022_ ~ )
+- **Yeungjin University Computer Information** - (_Mar 2019 - Jun 2022_)
 - **ChungNam Samsung Academy IT Diploma** - (_Mar 2016 - Feb 2019_)
 
 
