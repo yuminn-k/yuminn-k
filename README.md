@@ -17,7 +17,6 @@ I am a Frontend developer from South Korea 🇰🇷.
 - 👨‍💻 All of my projects are available at [devymkim.github.io](https://devymkim.github.io)
 
 - 📝 I regularly write articles on [devYuMinKim.github.io](https://devYuMinKim.github.io)
-     (Currently in production)
 
 - 📫 How to reach me **gimyumin40@gmail.com**
 
