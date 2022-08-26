@@ -1,36 +1,19 @@
-Hi There 👋
---
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devyuminkim.github.io/)
-  [![Instagram Badge](https://img.shields.io/badge/instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yu._.min_k/)](https://www.instagram.com/yu._.min_k/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:gimyumin40@gmail.com)
 
-### Hello, I'm YuMin Kim! はじめまして！ユミンです。
-I am a Frontend developer from South Korea 🇰🇷. 
+<!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 
-### 💫 Experience
-- **zero-base Front-end 5th** - (_Jul 2022_ ~ )
-- **Yeungjin University Computer Information** - (_Mar 2019 - Jun 2022_) (now taking a break)
-- **ChungNam Samsung Academy IT Diploma** - (_Mar 2016 - Feb 2019_)
-
-
-### ✨ Summary
-- 📝 I regularly write articles on [devYuMinKim.github.io](https://devYuMinKim.github.io)
-
-- 📄 Know about my experiences [devymkim.github.io/](https://devymkim.github.io/)
-
-- 📫  I commit algorithms everyday that I studied [https://github.com/devYuMinKim/my_algorithm_list]
-### Blogs posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
-
+<div align="center">
   
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+  
+  ### 🐣 MiNyu 🐥 
+  
+  ---
+  
+  <a href="https://github.com/devYuMinKim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevYuMinKim&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/gimyumin40"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gimyumin40"/></a>
+  <a href="[https://devYuMinKim.github.io]"><img src="https://img.shields.io/badge/minyu.log-3DDC84?style=flat-square&logo=Github&logoColor=white"/></a>
+<!--   <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=flat-square&logo=notion&logoColor=black"/></a> -->
+<!--   <a href="https://devYuMinKim.github.io"><img src="https://img.shields.io/badge/devYuMinKim-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a>  -->
 
-Github Stats
---
-<!--  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yumin-kim-2992b8245/)](https://www.linkedin.com/in/yumin-kim-2992b8245/) -->
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devYuMinKim&show_icons=true&theme=tokyonight) -->
-
-|<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devyuminkim&show_icons=true&locale=en" alt="devyuminkim" /></p>|<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devyuminkim&show_icons=true&locale=en&layout=compact" alt="devyuminkim" /></p>|
-|--|--|
-
-<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>-->
+  <br>
+ 
+</div>
