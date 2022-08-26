@@ -1,5 +1,10 @@
 
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=YuMin%20Kim&fontSize=80&fontAlignY=70&animation=twinkling" />
+</a>
+
+<p align="center">
 
 <div align="center">
   
