@@ -1,8 +1,6 @@
 
-<!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Hello%20World!&fontSize=80&fontAlignY=70&animation=twinkling" />
-</a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=e3e1ee&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20Github!&descAlignY=51&descAlign=62)
+
 
 <p align="center">
 
@@ -24,3 +22,6 @@
   📝 New Post
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devYuMinKim)](https://devyuminkim.github.io/@devYuMinKim) -->
 </div>
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=Hello%20World!&fontSize=80&fontAlignY=70&animation=twinkling" />
+</a> -->
