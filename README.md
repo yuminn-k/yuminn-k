@@ -14,9 +14,7 @@
   ---
   
   <a href="https://github.com/devYuMinKim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevYuMinKim&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=gimyumin40)](https://solved.ac/gimyumin40)
-  <a href="https://devYuMinKim.github.io"><img src="https://img.shields.io/badge/my Blog-3DDC84?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://devYuMinKim.github.io"><img src="https://img.shields.io/badge/my Blog-3DDC84?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://devyuminkim.notion.site/Minyu-64bd48e441a44f4899fb75844280c58c"><img src="https://img.shields.io/badge/Resume-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 
   <br>
