@@ -7,7 +7,7 @@
 <br><br><br>
 
 <h2>Tech Stack</h2>
-<img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,mongodb,docker,aws">
+<img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,graphql,mongodb,docker,aws">
 
 <br><br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
