@@ -7,7 +7,7 @@
 <br><br><br>
 
 <h2>Tech Stack</h2>
-<img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,graphql,mongodb,docker,aws">
+<img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,graphql,mongodb,nginx,docker,aws">
 
 <h2>Blog Posts</h2>
  
