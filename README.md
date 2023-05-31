@@ -9,6 +9,12 @@
 <h2>Tech Stack</h2>
 <img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,graphql,mongodb,docker,aws">
 
+<h2>Blog Posts</h2>
+ 
+- [2023 국제인공지능대전 후기](https://devyuminkim.github.io/lifelog/life-blog-18.html)
+- [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-END 후기](https://devyuminkim.github.io/lifelog/life-blog-17.html)
+- [🤖 ChatGPT, 개발자 밥줄 이상무?](https://devyuminkim.github.io/lifelog/life-blog-16.html)
+ 
 <br><br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
