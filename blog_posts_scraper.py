@@ -18,10 +18,11 @@ for url in urls:
 
         for article in articles[:3]:
             title = article.text.strip()
-            link = url.rstrip("/") + article["href"]
+            link = article["href"]
             timestamp = article.find_previous_sibling("time").text.strip()
+            if not link.startswith("http"):
+                link = url.rstrip("/") + "/" + link.strip("/")
 
-            # 추가할 로그 출력 코드
             print(f"title: {title}, link: {link}, timestamp: {timestamp}")
 
             post_data = {
@@ -34,10 +35,10 @@ for url in urls:
     except Exception as e:
         print(f"Error while scraping {url}: {e}")
 
+# 인덱싱 문제 해결
 output_data.sort(key=lambda x: x["timestamp"], reverse=True)
 output_data = output_data[:3]
 
-# Convert datetime objects back to strings
 for post in output_data:
     post["timestamp"] = post["timestamp"].strftime("%Y-%m-%d")
 
