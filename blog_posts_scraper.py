@@ -11,10 +11,10 @@ for url in urls:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
 
-        for article in soup.select("div.post-list--item"):
-            title = article.select_one("div.post-list--item--title").text.strip()
+        for article in soup.select("ul.post-list-wrap > li"):
+            title = article.select_one("a").text.strip()
             link = url.rstrip("/") + article.select_one("a")["href"]
-            timestamp = article.select_one("div.post-list--item--date").text.strip()
+            timestamp = article.select_one("span.post-meta").text.strip()
 
             post_data = {
                 "title": title,
@@ -28,9 +28,6 @@ for url in urls:
 
 output_data.sort(key=lambda x: x["timestamp"], reverse=True)
 output_data = output_data[:3]
-
-
-output_data = sorted(output_data, key=lambda x: x['link'], reverse=True)[:3]
 
 with open("output.json", "w") as json_file:
     json.dump(output_data, json_file)
