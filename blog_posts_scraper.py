@@ -14,8 +14,8 @@ for url in urls:
         articles = soup.select("#_main > article > ul:nth-child(3) > li")
 
         for article in articles[:3]:
-            title = article.select_one("a").text.strip()
-            link = url.rstrip("/") + article.select_one("a")["href"]
+            title = article.select_one("a.title").text.strip()
+            link = url.rstrip("/") + article.select_one("a.title")["href"]
             timestamp = article.select_one(".post-meta").text.strip()
 
             post_data = {
