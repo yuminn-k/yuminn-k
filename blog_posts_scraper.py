@@ -11,7 +11,11 @@ for url in urls:
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
-        articles = soup.select("#_main > article > ul > li")
+        article_sections_list = soup.select("#_main > article > ul.article-list")
+        
+        # 문서 구조 변화에 대응하기 위함
+        article_sections = article_sections_list[0] if len(article_sections_list) > 0 else soup
+        articles = article_sections.select("li")
 
         for article in articles[:3]:
             title = article.select_one("a").text.strip()
