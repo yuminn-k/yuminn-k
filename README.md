@@ -11,10 +11,11 @@
 
 <h2>Blog Posts</h2>
 
-- [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/lifelog/life-blog-21.html)
-- [Laravel에서 ADR 패턴 적용하기](https://devyuminkim.github.io/devlog/devlog/dev-183-laravel-adr-pattern.html)
+- [첫 팀프로젝트 회고](https://devyuminkim.github.io/lifelog/life-blog-9.html) 2023-11-22
+- [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/life-blog-21.html) 2023-07-01
+- [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim.github.io/devlog/dev-183-laravel-adr-pattern.html) 2023-06-29
 
- 
+
 <br><br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
