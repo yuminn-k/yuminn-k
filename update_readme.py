@@ -1,3 +1,5 @@
+import json
+
 def update_readme(posts):
     with open("README_template.md", "r") as template:
         template_content = template.read()
