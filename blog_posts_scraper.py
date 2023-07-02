@@ -22,7 +22,7 @@ for url in urls:
 
         blog_posts.append(post_data)
     
-    output_data.extend(sorted(blog_posts, key=lambda x: x['link'], reverse=True)[:3])
+    output_data.extend(blog_posts[:3])
 
 output_data = sorted(output_data, key=lambda x: x['link'], reverse=True)[:3]
 
