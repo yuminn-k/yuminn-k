@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import json
 from dateutil.parser import parse
 
+def is_absolute(url):
+    return bool(requests.utils.urlparse(url).netloc)
+
 urls = [
     "https://devyuminkim.github.io/lifelog/",
     "https://devyuminkim.github.io/devlog/",
@@ -20,8 +23,8 @@ for url in urls:
             title = article.text.strip()
             link = article["href"]
             timestamp = article.find_previous_sibling("time").text.strip()
-            if not link.startswith("http"):
-                link = url.rstrip("/") + "/" + link.strip("/")
+            if not is_absolute(link):
+                link = url.rstrip("/") + "/" + link.lstrip("/")
 
             print(f"title: {title}, link: {link}, timestamp: {timestamp}")
 
@@ -35,12 +38,15 @@ for url in urls:
     except Exception as e:
         print(f"Error while scraping {url}: {e}")
 
-# 인덱싱 문제 해결
 output_data.sort(key=lambda x: x["timestamp"], reverse=True)
 output_data = output_data[:3]
 
 for post in output_data:
     post["timestamp"] = post["timestamp"].strftime("%Y-%m-%d")
 
-with open("output.json", "w") as json_file:
-    json.dump(output_data, json_file)
+try:
+    with open("output.json", "w") as json_file:
+        json.dump(output_data, json_file)
+    print("output.json에 성공적으로 저장되었습니다.")
+except Exception as e:
+    print(f"output.json에 저장하는 동안 오류가 발생했습니다: {e}")
