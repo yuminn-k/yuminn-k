@@ -11,12 +11,12 @@ for url in urls:
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
-        articles = soup.select("#_main > article > ul:nth-child(3) > li")
+        articles = soup.select("#_main > article > ul > li")
 
         for article in articles[:3]:
-            title = article.select_one("a.title").text.strip()
-            link = url.rstrip("/") + article.select_one("a.title")["href"]
-            timestamp = article.select_one(".post-meta").text.strip()
+            title = article.select_one("a").text.strip()
+            link = url.rstrip("/") + article.select_one("a")["href"]
+            timestamp = article.select_one("span.post-meta").text.strip()
 
             post_data = {
                 "title": title,
