@@ -10,6 +10,9 @@
 <img src = "https://skillicons.dev/icons?i=laravel,nest,react,git,github,mysql,postgresql,graphql,mongodb,nginx,docker,aws">
 
 <h2>Blog Posts</h2>
+- [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/lifelog/life-blog-21.html)
+- [Laravel에서 ADR 패턴 적용하기](https://devyuminkim.github.io/devlog/devlog/dev-183-laravel-adr-pattern.html)
+
 
 
 
