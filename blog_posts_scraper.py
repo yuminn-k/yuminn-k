@@ -21,6 +21,9 @@ for url in urls:
             link = url.rstrip("/") + article.select_one("a")["href"]
             timestamp = article.select_one("span.post-meta").text.strip()
 
+            # 추가할 로그 출력 코드
+            print(f"title: {title}, link: {link}, timestamp: {timestamp}")
+
             post_data = {
                 "title": title,
                 "link": link,
