@@ -11,6 +11,7 @@
 
 <h2>Blog Posts</h2>
 
+
  
 - [2023 국제인공지능대전 후기](https://devyuminkim.github.io/lifelog/life-blog-18.html)
 - [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-END 후기](https://devyuminkim.github.io/lifelog/life-blog-17.html)
