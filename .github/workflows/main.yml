@@ -30,6 +30,7 @@ jobs:
       - name: Run the script
         run: |
           python blog_posts_scraper.py
+          python update_readme.py
 
       - name: Configure Git
         run: |

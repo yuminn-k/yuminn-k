@@ -9,4 +9,7 @@ def update_readme(posts):
         readme.write(readme_content)
     print(f"README.md 업데이트 성공!")
 
-update_readme(sample_output_data)
+if __name__ == "__main__":
+    with open("output.json", "r") as json_file:
+        sample_output_data = json.load(json_file)
+    update_readme(sample_output_data)
