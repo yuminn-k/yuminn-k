@@ -9,11 +9,8 @@ new_section = "<h2>Blog Posts</h2>\n\n" + ''.join([f"- [{post['title']}]({post['
 with open("README.md", "r") as readme:
     readme_content = readme.read()
 
-pattern = re.compile(r"(?<=<h2>Blog\sPosts<\/h2>)(\r?\n)([^\r^\n]*(\r?\n)*)", re.MULTILINE)
-readme_content, result = re.subn(pattern, f"\\1{new_section}\n", readme_content)
-
-if not result:
-    readme_content = f"{new_section}\n{readme_content}\n"
+pattern = re.compile(r"<h2>Blog\sPosts<\/h2>[^\#\-\r\n]*(?:\r?\n-.*?)*(?=\r?\n\#)", re.MULTILINE | re.DOTALL)
+readme_content = re.sub(pattern, new_section, readme_content)
 
 with open("README.md", "w") as readme:
     readme.write(readme_content)
