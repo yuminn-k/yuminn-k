@@ -14,12 +14,12 @@ for url in urls:
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
-        articles = soup.select("#_main > article > ul:nth-child(3) > li")
+        articles = soup.select("body > article > header > h1 > a")
 
         for article in articles[:3]:
-            title = article.select_one("a").text.strip()
-            link = url.rstrip("/") + article.select_one("a")["href"]
-            timestamp = article.select_one("span.post-meta").text.strip()
+            title = article.text.strip()
+            link = url.rstrip("/") + article["href"]
+            timestamp = article.find_previous_sibling("time").text.strip()
 
             # 추가할 로그 출력 코드
             print(f"title: {title}, link: {link}, timestamp: {timestamp}")
