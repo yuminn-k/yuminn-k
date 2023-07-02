@@ -10,8 +10,8 @@ for url in urls:
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
-    for article in soup.select("div.grid-item div.post-card.content a")[:3]:
-        title = article.find("figcaption").text.strip()
+    for article in soup.select("div.item-thumbnail a")[:3]:
+        title = article.find("h2", class_="post-title").text.strip()
         link = url.rstrip("/") + article["href"]
 
         post_data = {
