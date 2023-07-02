@@ -35,6 +35,8 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git fetch origin main
+          git checkout main
+          git pull
           git rebase origin/main
           git add README.md output.json
           git commit -m "Updated README.md with recent blog posts"
