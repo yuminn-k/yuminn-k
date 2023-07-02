@@ -14,7 +14,7 @@ for url in urls:
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
-        articles = soup.select("#_main > div.post > ul.post-list > li")
+        articles = soup.select("#_main > article > ul:nth-child(3) > li")
 
         for article in articles[:3]:
             title = article.select_one("a").text.strip()
