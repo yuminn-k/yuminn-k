@@ -14,6 +14,10 @@
 - [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/lifelog/life-blog-21.html)
 - [Laravel에서 ADR 패턴 적용하기](https://devyuminkim.github.io/devlog/devlog/dev-183-laravel-adr-pattern.html)
 
+
+- [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/lifelog/life-blog-21.html)
+- [Laravel에서 ADR 패턴 적용하기](https://devyuminkim.github.io/devlog/devlog/dev-183-laravel-adr-pattern.html)
+
  
 <br><br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
