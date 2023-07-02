@@ -32,6 +32,6 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-          git add README.md
+          git add README.md output.json
           git commit -m "Updated README.md with recent blog posts"
           git push
