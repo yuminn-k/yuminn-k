@@ -36,8 +36,7 @@ jobs:
           git config user.email "<>"
           git fetch origin main
           git checkout main
-          git pull
-          git rebase origin/main
+          git merge origin/main --allow-unrelated-histories
           git add README.md output.json
           git commit -m "Updated README.md with recent blog posts"
           git push
