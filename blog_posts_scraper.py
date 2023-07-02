@@ -7,7 +7,6 @@ urls = ["https://devyuminkim.github.io/lifelog/", "https://devyuminkim.github.io
 output_data = []
 
 for url in urls:
-    blog_posts = []
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -20,9 +19,7 @@ for url in urls:
             "link": link
         }
 
-        blog_posts.append(post_data)
-    
-    output_data.extend(blog_posts[:3])
+        output_data.append(post_data)
 
 output_data = sorted(output_data, key=lambda x: x['link'], reverse=True)[:3]
 
