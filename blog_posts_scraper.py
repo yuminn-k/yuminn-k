@@ -3,7 +3,10 @@ from bs4 import BeautifulSoup
 import json
 from dateutil.parser import parse
 
-urls = ["https://devyuminkim.github.io/lifelog/", "https://devyuminkim.github.io/devlog/"]
+urls = [
+    "https://devyuminkim.github.io/lifelog/",
+    "https://devyuminkim.github.io/devlog/",
+]
 
 output_data = []
 
@@ -11,11 +14,7 @@ for url in urls:
     try:
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
-        article_sections_list = soup.select("#_main > article > ul.article-list")
-        
-        # 문서 구조 변화에 대응하기 위함
-        article_sections = article_sections_list[0] if len(article_sections_list) > 0 else soup
-        articles = article_sections.select("li")
+        articles = soup.select("#_main > div.post > ul.post-list > li")
 
         for article in articles[:3]:
             title = article.select_one("a").text.strip()
@@ -25,7 +24,7 @@ for url in urls:
             post_data = {
                 "title": title,
                 "link": link,
-                "timestamp": parse(timestamp)
+                "timestamp": parse(timestamp),
             }
 
             output_data.append(post_data)
