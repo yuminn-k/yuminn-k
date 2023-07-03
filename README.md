@@ -13,7 +13,7 @@
 
 - [첫 팀프로젝트 회고](https://devyuminkim.github.io/lifelog/life-blog-9.html)
 - [[에러] 깃허브 사용시 “please clean your repository working tree before checkout” 에러 해결 방법](https://devyuminkim.github.io/devlog/dev-166-err-stash.html)
-- [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim.github.io/lifelog/life-blog-21.html)
+- [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim.github.io/devlog/dev-183-laravel-adr-pattern.html)
 
 
 <br><br>
