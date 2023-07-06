@@ -46,6 +46,8 @@ def save_output_to_json(sample_output_data, output_file):
 
 def main():
     load_dotenv()
+    dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
+    load_dotenv(dotenv_path)
     url = os.getenv("URL")
     css_selector = os.getenv("CSS_SELECTOR")
     output_file = "output.json"
@@ -53,13 +55,6 @@ def main():
     output_data = get_random_blog_posts(url, css_selector)
     sample_output_data = random.sample(output_data, min(len(output_data), 3))
     save_output_to_json(sample_output_data, output_file)
-
-    print(f"\n저장된 {output_file} 파일의 경로: {os.path.abspath(output_file)}")
-
-    print(f"\n{output_file} 파일 내용 확인:")
-    with open(output_file, "r") as json_file:
-        loaded_data = json.load(json_file)
-        print(json.dumps(loaded_data, indent=4))
 
 if __name__ == "__main__":
     main()
