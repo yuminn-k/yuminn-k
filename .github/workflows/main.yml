@@ -28,6 +28,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run the script
+        env:
+          URL: "https://devyuminkim-devlog.vercel.app"
+          CSS_SELECTOR: "#__next > div:nth-child(2) > div > div.notion-frame > div > main > div.notion-page-content > article > div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6 > div:nth-child(2) > div > div"
         run: |
           python blog_posts_scraper.py
           python update_readme.py
