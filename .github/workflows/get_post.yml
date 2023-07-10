@@ -25,6 +25,7 @@ jobs:
       - name: Add another repository
         run: |
           git clone https://github.com/devYuMinKim/devYuMinKim.git
+          cd devYuMinKim
 
       - name: Install dependencies
         run: |
