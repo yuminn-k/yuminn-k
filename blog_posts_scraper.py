@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import json
 import os
 import random
-from dotenv import load_dotenv
 from pathlib import Path
 
 # URL이 절대 경로인지 확인하는 함수
@@ -59,9 +58,6 @@ def save_output_to_json(sample_output_data, output_file):
     return str(output_path)
 
 def main():
-    load_dotenv()
-    dotenv_path = Path(__file__).resolve().parent / '.env'
-    load_dotenv(dotenv_path=dotenv_path)
     url = os.getenv("URL")
     css_selector = os.getenv("CSS_SELECTOR")
     output_file = "output.json"
