@@ -24,7 +24,7 @@ jobs:
 
       - name: Add another repository
         run: |
-          git clone https://${{ secrets.BLOG_POSTS }}@github.com/devYuMinKim/devYuMinKim.git
+          git clone https://github.com/devYuMinKim/devYuMinKim.git
 
       - name: Install dependencies
         run: |
