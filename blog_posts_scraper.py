@@ -4,6 +4,7 @@ import json
 import os
 import random
 from dotenv import load_dotenv
+from pathlib import Path
 
 # URL이 절대 경로인지 확인하는 함수
 def is_absolute(url):
@@ -16,6 +17,7 @@ def get_random_blog_posts(url, css_selector):
     try:
         # 블로그의 HTML 코드 가져오기
         response = requests.get(url)
+        response.raise_for_status()  # 에러 발생 시 예외를 던짐
         soup = BeautifulSoup(response.content, "html.parser")
 
         # 포스트 목록 가져오기
@@ -39,27 +41,27 @@ def get_random_blog_posts(url, css_selector):
                 }
 
                 output_data.append(post_data)
-    except Exception as e:
-        print(f"Error while scraping {url}: {e}")
+    except requests.exceptions.RequestException as e:
+        raise RuntimeError(f"Error while scraping {url}: {e}")
 
     return output_data
 
 # 출력 데이터를 JSON 파일에 저장하는 함수
 def save_output_to_json(sample_output_data, output_file):
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    output_path = os.path.join(current_dir, output_file)
+    output_path = Path(output_file)
     try:
-        with open(output_path, "w") as json_file:
+        with output_path.open("w") as json_file:
             json.dump(sample_output_data, json_file)
         print(f"{output_path}에 성공적으로 저장되었습니다.")
     except Exception as e:
-        print(f"{output_path}에 저장하는 동안 오류가 발생했습니다:e\n")
-    return output_path
+        print(f"{output_path}에 저장하는 동안 오류가 발생했습니다: {e}")
+
+    return str(output_path)
 
 def main():
     load_dotenv()
-    dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
-    load_dotenv(dotenv_path)
+    dotenv_path = Path(__file__).resolve().parent / '.env'
+    load_dotenv(dotenv_path=dotenv_path)
     url = os.getenv("URL")
     css_selector = os.getenv("CSS_SELECTOR")
     output_file = "output.json"
