@@ -19,8 +19,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          repository: devYuMinKim/project_RandomBlogSnippets
-          ref: main
           fetch-depth: 0
           token: ${{ secrets.BLOG_POSTS }} # TODO: 설정 요함
 
@@ -31,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r devYuMinKim/requirements.txt
+          pip install -r requirements.txt
 
       - name: Run the script
         env:
@@ -45,13 +43,11 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions Bot"
-          git config --global user.email ">"
+          git config --global user.email "gimyumin40@gmail.com"
 
       - name: Update main branch and push the changes
         run: |
-          cd devYuMinKim
           git add README.md
           git diff --cached --quiet || git commit -m "Updated README.md with recent blog posts"
-          git remote remove origin
-          git remote add origin "https://${{ secrets.BLOG_POSTS }}@github.com/devYuMinKim/devYuMinKim.git"  # TODO: 설정 요함
+          git remote set-url origin "https://${{ secrets.BLOG_POSTS }}@github.com/devYuMinKim/devYuMinKim.git"  # TODO: 설정 요함
           git push origin main
