@@ -20,7 +20,7 @@
 ### 🎞 Project Experience
 
 - [ESGForum]() | Backend Developer (2023.07 ~ )
-- [食べようか]() | Backend Developer (2023.07 ~ 2023.08)
+- [食べようか]() | Backend Developer (2023.05 ~ 2023.08)
 - [Global Zone]() | Backend Developer (2023.02 ~ )
 
 <!--
