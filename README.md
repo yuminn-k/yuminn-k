@@ -17,19 +17,25 @@
 - 💻  PHP | Typescript | C++
 - 🔩  Laravel | React | Docker | AWS
 
-### 🎞 Work Experience
+### 🎞 Project Experience
+
+- [ESGForum]() | Backend Developer (2023.07 ~ )
+- [食べようか]() | Backend Developer (2023.07 ~ 2023.08)
+- [Global Zone]() | Backend Developer (2023.02 ~ )
+
 <!--
 - [LINE+](https://linepluscorp.com/) | Frontend Developer (2022.05 ~ )
 - [Tongro Image](https://www.clipartkorea.co.kr/main/index.php?utm_source=google&utm_medium=cpc&utm_campaign=Ckkeyword_PC&utm_term=%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B5%AC%EC%9E%85&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsvQPfi9Vx-K5fWwpAmv0V-N9QVJBUFqqy0TKDPH6hoGXZEDmZXOskhoCymUQAvD_BwE) | Frontend Developer (2020.02 ~ 2021.08)
 -->
 
 ### 🙌 Share
-- 
+
+- [Laravel Documentation Translation Task]() (2023.04 ~ )
 <!--
 - [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)
 -->
 
-### 📝 New Post
+### 📝 Blog Post
 
 - [🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://devyuminkim-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)
 - [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)
