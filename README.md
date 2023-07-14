@@ -19,8 +19,8 @@
 
 ### 🎞 Project Experience
 
-- [ESGForum]() | Backend Developer (2023.07 ~ )
-- [食べようか]() | Backend Developer (2023.05 ~ 2023.08)
+- [ESGForum]() | Full-Stack Developer (2023.07 ~ 2023.08)
+- [食べようか]() | Backend Developer (2023.05 ~ 2023.07)
 - [Global Zone]() | Backend Developer (2023.02 ~ )
 
 <!--
@@ -30,7 +30,7 @@
 
 ### 🙌 Share
 
-- [Laravel Documentation Translation Task]() (2023.04 ~ )
+- [Laravel Documentation Translation Task]() (2023.04 ~ 2023.04)
 <!--
 - [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)
 -->
