@@ -66,7 +66,9 @@ def save_output_to_json(sample_output_data, output_file):
 
 def main():
     url = os.getenv("URL")
+    # url = "https://devyuminkim-devlog.vercel.app"
     css_selector = os.getenv("CSS_SELECTOR")
+    # css_selector = "#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div"
     output_file = "output.json"
 
     output_data = get_random_blog_posts(url, css_selector)
