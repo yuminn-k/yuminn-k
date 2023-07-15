@@ -41,7 +41,6 @@
 - [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)
 - [👥初めてのチームプロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
 
-<br><br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
  -->
