@@ -39,6 +39,7 @@ jobs:
         run: |
           python blog_posts_scraper.py
           cat output.json
+          cd devYuMinKim
           python update_readme.py
 
       - name: Configure Git
