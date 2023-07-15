@@ -2,7 +2,6 @@ name: Update README
 
 on:
   schedule:
-    # 매일 00:00 UTC에 실행하도록 예약
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -20,12 +19,9 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          token: ${{ secrets.BLOG_POSTS }} # TODO: 설정 요함
 
       - name: Add another repository
-        run: |
-          git clone https://github.com/devYuMinKim/devYuMinKim.git
-          cd devYuMinKim
+        run: git clone https://github.com/devYuMinKim/devYuMinKim.git && cd devYuMinKim
 
       - name: Install dependencies
         run: |
@@ -36,20 +32,4 @@ jobs:
         env:
           URL: "https://devyuminkim-devlog.vercel.app"
           CSS_SELECTOR: "#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div"
-        run: |
-          python blog_posts_scraper.py
-          cat output.json
-          cd devYuMinKim
-          python update_readme.py
-
-      - name: Configure Git
-        run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "gimyumin40@gmail.com"
-
-      - name: Update main branch and push the changes
-        run: |
-          git add README.md
-          git diff --cached --quiet || git commit -m "Updated README.md with recent blog posts"
-          git remote set-url origin "https://${{ secrets.BLOG_POSTS }}@github.com/devYuMinKim/devYuMinKim.git"  # TODO: 설정 요함
-          git push origin main
+        run: python blog_posts_scraper.py && git add README.md && git commit -m "Updated README.md with recent blog posts" && git push origin main
