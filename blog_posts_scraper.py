@@ -33,7 +33,7 @@ def get_random_blog_posts(url, css_selector):
 
             post_data = {
                 "title": title,
-                "link": href,
+                "url": href,
             }
 
             output_data.append(post_data)
