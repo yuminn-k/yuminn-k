@@ -37,9 +37,9 @@
 
 ### 📝 Blog Post
 
-- [👆🏻2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)
-- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
-- [🌍物理削除＆論理削除](https://devyuminkim-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)
+- [GitHub Actionを利用してREADME.mdに最近のブログ記事を表示する方法](https://devyuminkim-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E6%9C%80%E8%BF%91%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)
+- [📐Nginxについて](https://devyuminkim-devlog.vercel.app/nginx)
+- [👥初めてのチームプロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
