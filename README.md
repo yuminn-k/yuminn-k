@@ -37,9 +37,9 @@
 
 ### 📝 Blog Post
 
-- [GitHub Actionを利用してREADME.mdに最近のブログ記事を表示する方法](https://devyuminkim-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E6%9C%80%E8%BF%91%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)
-- [📐Nginxについて](https://devyuminkim-devlog.vercel.app/nginx)
+- [📅2022年の振り返りと2023年の目標設定](https://devyuminkim-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)
 - [👥初めてのチームプロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
+- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
