@@ -19,21 +19,14 @@
 
 ### 🎞 Project Experience
 
-- [ESGForum]() | Full-Stack Developer (2023.07 ~ 2023.08)
-- [食べようか]() | Backend Developer (2023.05 ~ 2023.07)
-- [Global Zone](https://gzone.yju.ac.kr/) | Backend Developer (2023.02 ~ )
-
-<!--
-- [LINE+](https://linepluscorp.com/) | Frontend Developer (2022.05 ~ )
-- [Tongro Image](https://www.clipartkorea.co.kr/main/index.php?utm_source=google&utm_medium=cpc&utm_campaign=Ckkeyword_PC&utm_term=%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B5%AC%EC%9E%85&gclid=CjwKCAjw6fyXBhBgEiwAhhiZsvQPfi9Vx-K5fWwpAmv0V-N9QVJBUFqqy0TKDPH6hoGXZEDmZXOskhoCymUQAvD_BwE) | Frontend Developer (2020.02 ~ 2021.08)
--->
+- [ESGForum]() | [Full-Stack Developer]() (2023.07 ~ 2023.08)
+- [食べようか]() | [Backend Developer]() (2023.05 ~ 2023.07)
+- [Global Zone](https://gzone.yju.ac.kr/) | [Backend Developer]() (2023.02 ~ )
 
 ### 🙌 Share
 
 - [Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.04)
-<!--
-- [Korean FE article](https://kofearticle.substack.com/) (2022.08 ~)
--->
+
 
 ### 📝 Blog Post
 
@@ -41,41 +34,11 @@
 - [👥初めてのチームプロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
 - [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=devYuMinKim&include_all_commits=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=20)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devYuMinKim&hide=c%2B%2B,scss,css,ruby,html,java&exclude_repo=Algorithm_List&langs_count=6&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
- -->
- <!--
-![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=devyuminkim&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
- -->
-</div>
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devYuMinKim&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a> -->
- 
-<!-- <a href="https://github.com/devYuMinKim/github-stats">
- <img src="https://raw.githubusercontent.com/devYuMinKim/github-stats/output/generated/languages.svg" width=51% />
-</a> -->
-
-<!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=devYuMinKim)](https://github.com/LordDashMe/github-contribution-stats/) -->
 
 <!--
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=devYuMinKim&theme=dark&hide_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devYuMinKim&theme=dark&hide_border=true" />
-
-  
-</td>
-
-<td width="50%" align="center">
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
+</div>
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devYuMinKim&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
