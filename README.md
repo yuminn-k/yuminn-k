@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
+- [[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://devyuminkim-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)
 - [📝技術ブログをなぜ、どのように書くべきか](https://devyuminkim-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
-- [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://devyuminkim-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)
-- [第２回 CO-WEEK ACADEMY レビュー](https://devyuminkim-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)
+- [先輩の승현さんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%EC%8A%B9%ED%98%84%E5%87%BA%E4%BC%9A)
 
 
 <!--
