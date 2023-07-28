@@ -15,7 +15,7 @@
 ### 🛠  Tech Stack
 
 - 💻  PHP | Typescript | Python | C++
-- 🔩  Laravel | Django | React | Docker | AWS
+- 🔩  Laravel | React | Docker | AWS
 
 ### 🎞 Project Experience
 
