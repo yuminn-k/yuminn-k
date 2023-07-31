@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
 - [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [👆🏻2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)
+- [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
 
 
 <!--
