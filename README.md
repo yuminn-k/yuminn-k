@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
-- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
+- [⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://devyuminkim-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)
+- [📰私が毎日日本のニュースを読んでいる理由について](https://devyuminkim-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)
+- [📝技術ブログをなぜ、どのように書くべきか](https://devyuminkim-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
 
 
 <!--
