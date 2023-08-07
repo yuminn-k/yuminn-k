@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
-- [Laravelでapi.phpとweb.phpの違いは？](https://devyuminkim-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)
-- [⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://devyuminkim-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)
+- [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://devyuminkim-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)
+- [🐳Dockerについて](https://devyuminkim-devlog.vercel.app/docker)
+- [🤖OpenAI CEOの来日と7つの約束](https://devyuminkim-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)
 
 
 <!--
