@@ -31,8 +31,8 @@
 ### 📝 Blog Post
 
 - [🇯🇵またもやN1合格証をいただきました](https://devyuminkim-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)
-- [⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://devyuminkim-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)
-- [⚠️VS Code Git 10kの削除方法](https://devyuminkim-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)
+- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
+- [github labelを一度に適用する方法](https://devyuminkim-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)
 
 
 <!--
