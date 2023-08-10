@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [🇯🇵またもやN1合格証をいただきました](https://devyuminkim-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)
-- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
-- [github labelを一度に適用する方法](https://devyuminkim-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)
+- [🐳Dockerについて](https://devyuminkim-devlog.vercel.app/docker)
+- [GitHub Actionを利用してREADME.mdにブログ記事を表示する方法](https://devyuminkim-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)
+- [🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://devyuminkim-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)
 
 
 <!--
