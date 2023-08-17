@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
-- [I/O Extended 2023 Seoul レビュー](https://devyuminkim-devlog.vercel.app/io-extended-2023-seoul)
-- [第２回 CO-WEEK ACADEMY レビュー](https://devyuminkim-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)
+- [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)
+- [[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://devyuminkim-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)
+- [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
 
 
 <!--
