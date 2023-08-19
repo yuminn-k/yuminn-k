@@ -2,13 +2,9 @@
 <div align="center">
 <br><br><br>
 
-<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80記憶より記録を+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 ---
--->
-
-<a href="https://app.daily.dev/devyuminkim"><img src="https://api.daily.dev/devcards/1c834f7d8d9b4846968005794ca7a4ef.png?r=al5" width="400" alt="キムユミン's Dev Card"/></a>
 
 - 🌱 Backend Developer
 - わかりやすいコードを書くために変数名やロジックを考えるのが好きです 🤔
@@ -34,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [GitHub Actionを利用してREADME.mdにブログ記事を表示する方法](https://devyuminkim-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)
-- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
-- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
+- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
+- [Laravelでapi.phpとweb.phpの違いは？](https://devyuminkim-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
 
 
 <!--
