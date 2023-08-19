@@ -2,9 +2,13 @@
 <div align="center">
 <br><br><br>
 
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80記憶より記録を+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 ---
+-->
+
+<a href="https://app.daily.dev/devyuminkim"><img src="https://api.daily.dev/devcards/1c834f7d8d9b4846968005794ca7a4ef.png?r=al5" width="400" alt="キムユミン's Dev Card"/></a>
 
 - 🌱 Backend Developer
 - わかりやすいコードを書くために変数名やロジックを考えるのが好きです 🤔
