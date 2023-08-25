@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [Lightning TechTalks〜New Server Side Engineers〜](https://devyuminkim-devlog.vercel.app/lightning-techtalksnew-server-side-engineers)
-- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
-- [LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://devyuminkim-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)
+- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
+- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
 
 
 <!--
