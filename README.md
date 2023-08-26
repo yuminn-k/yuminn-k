@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
 - [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
+- [⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://devyuminkim-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)
+- [🌎グローバルゾーン引継ぎ](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99)
 
 
 <!--
