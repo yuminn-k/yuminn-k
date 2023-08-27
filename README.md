@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://devyuminkim-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)
-- [🌎グローバルゾーン引継ぎ](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99)
+- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
+- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
+- [📝技術ブログをなぜ、どのように書くべきか](https://devyuminkim-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
 
 
 <!--
