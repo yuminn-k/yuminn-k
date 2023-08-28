@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
-- [👨🏻‍💻仕事ができる新人エンジニアになる方法](https://devyuminkim-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)
-- [📝技術ブログをなぜ、どのように書くべきか](https://devyuminkim-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
+- [[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://devyuminkim-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)
+- [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://devyuminkim-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)
+- [Lightning TechTalks〜New Server Side Engineers〜](https://devyuminkim-devlog.vercel.app/lightning-techtalksnew-server-side-engineers)
 
 
 <!--
