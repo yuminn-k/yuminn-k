@@ -19,20 +19,20 @@
 
 ### 🎞 Project Experience
 
-- [ESGForum]() | [Full-Stack Developer]() (2023.07 ~ 2023.08)
-- [食べようか]() | [Backend Developer]() (2023.05 ~ 2023.07)
+- [ESGForum](https://github.com/ESGForumWebSiteDev) | [Full-Stack Developer](https://devyuminkim.notion.site/ESG-28f10033bcb74e588e2350abeefdcaba?pvs=4) (2023.07 ~ 2023.09)
+- [食べようか](https://github.com/Tabeyouka) | [Backend Developer](https://devyuminkim.notion.site/ac2f49b64acc4c68be75763f732d07f5?pvs=4) (2023.05 ~ 2023.07)
 - [Global Zone](https://gzone.yju.ac.kr/) | [Backend Developer](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
 
 ### 🙌 Share
 
-- [Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.04)
+- [Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.09)
 
 
 ### 📝 Blog Post
 
-- [🐳Dockerについて](https://devyuminkim-devlog.vercel.app/docker)
-- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
-- [📅2022年の振り返りと2023年の目標設定](https://devyuminkim-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)
+- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
+- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
 
 
 <!--
