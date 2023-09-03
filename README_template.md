@@ -19,8 +19,8 @@
 
 ### 🎞 Project Experience
 
-- [ESGForum](https://github.com/ESGForumWebSiteDev) | [Full-Stack Developer]() (2023.07 ~ 2023.09)
-- [食べようか](https://github.com/Tabeyouka) | [Backend Developer]() (2023.05 ~ 2023.07)
+- [ESGForum](https://github.com/ESGForumWebSiteDev) | [Full-Stack Developer](https://devyuminkim.notion.site/ESG-28f10033bcb74e588e2350abeefdcaba?pvs=4) (2023.07 ~ 2023.09)
+- [食べようか](https://github.com/Tabeyouka) | [Backend Developer](https://devyuminkim.notion.site/ac2f49b64acc4c68be75763f732d07f5?pvs=4) (2023.05 ~ 2023.07)
 - [Global Zone](https://gzone.yju.ac.kr/) | [Backend Developer](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
 
 ### 🙌 Share
