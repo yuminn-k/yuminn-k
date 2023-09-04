@@ -15,13 +15,13 @@
 ### 🛠  Tech Stack
 
 - 💻  PHP | Typescript | Python | C++
-- 🔩  Laravel | React | Docker | AWS
+- 🔩  Laravel | React
 
 ### 🎞 Project Experience
 
 - [ESGForum](https://github.com/ESGForumWebSiteDev) | [Full-Stack Developer](https://devyuminkim.notion.site/ESG-28f10033bcb74e588e2350abeefdcaba?pvs=4) (2023.07 ~ 2023.09)
 - [食べようか](https://github.com/Tabeyouka) | [Backend Developer](https://devyuminkim.notion.site/ac2f49b64acc4c68be75763f732d07f5?pvs=4) (2023.05 ~ 2023.07)
-- [Global Zone](https://gzone.yju.ac.kr/) | [Backend Developer](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
+- [Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [Backend Developer](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
 
 ### 🙌 Share
 
@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
-- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
+- [⚠️VS Code Git 10kの削除方法](https://devyuminkim-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)
+- [I/O Extended 2023 Seoul レビュー](https://devyuminkim-devlog.vercel.app/io-extended-2023-seoul)
+- [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
 
 
 <!--
