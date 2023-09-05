@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [⚠️VS Code Git 10kの削除方法](https://devyuminkim-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)
-- [I/O Extended 2023 Seoul レビュー](https://devyuminkim-devlog.vercel.app/io-extended-2023-seoul)
-- [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
+- [🇯🇵またもやN1合格証をいただきました](https://devyuminkim-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)
+- [👥初めてのチームプロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
 
 
 <!--
