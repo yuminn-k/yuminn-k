@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
+- [🤖2023 국제인공지능대전レビュー](https://devyuminkim-devlog.vercel.app/2023-%EA%B5%AD%EC%A0%9C%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EB%8C%80%EC%A0%84)
 - [「食べようか」プロジェクト回顧](https://devyuminkim-devlog.vercel.app/%E9%A3%9F%E5%9B%9E%E9%A1%A7)
-- [github labelを一度に適用する方法](https://devyuminkim-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)
-- [🌍物理削除＆論理削除](https://devyuminkim-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)
+- [⚠️VS Code Git 10kの削除方法](https://devyuminkim-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)
 
 
 <!--
