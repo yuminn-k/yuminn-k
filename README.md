@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 Backend Developer
+- 🌱🧑‍💻 フルスタックエンジニア
 - わかりやすいコードを書くために変数名やロジックを考えるのが好きです 🤔
 - 学んだことを記録し、整理することが好きで、主体的に開発し、成長できる環境が好きです！ ✏️
 - 一緒に働きやすいエンジニアになりたいです..🥴
@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [github labelを一度に適用する方法](https://devyuminkim-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)
-- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
-- [🇯🇵またもやN1合格証をいただきました](https://devyuminkim-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)
+- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
+- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
+- [I/O Extended 2023 Seoul レビュー](https://devyuminkim-devlog.vercel.app/io-extended-2023-seoul)
 
 
 <!--
