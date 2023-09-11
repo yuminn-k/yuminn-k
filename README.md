@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [SoftBank Tech Nightレビュー](https://devyuminkim-devlog.vercel.app/softbank-tech-night)
-- [GDSC JOB FAIR 2023](https://devyuminkim-devlog.vercel.app/gdsc-job-fair-2023)
-- [I/O Extended 2023 Seoul レビュー](https://devyuminkim-devlog.vercel.app/io-extended-2023-seoul)
+- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
+- [🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://devyuminkim-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)
+- [📅2022年の振り返りと2023年の目標設定](https://devyuminkim-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)
 
 
 <!--
