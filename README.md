@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [🤖ChatGPT, 開発者は安全か？](https://devyuminkim-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)
-- [🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://devyuminkim-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)
-- [📅2022年の振り返りと2023年の目標設定](https://devyuminkim-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)
+- [🗣️先輩のスンヒョンさんとの出会い](https://devyuminkim-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)
+- [👆🏻2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)
+- [🇯🇵またもやN1合格証をいただきました](https://devyuminkim-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)
 
 
 <!--
