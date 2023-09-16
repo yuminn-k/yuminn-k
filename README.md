@@ -30,9 +30,9 @@
 
 ### 📝 Blog Post
 
-- [👆🏻2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://devyuminkim-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)
-- [第２回 CO-WEEK ACADEMY レビュー](https://devyuminkim-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)
-- [📝技術ブログをなぜ、どのように書くべきか](https://devyuminkim-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
+- [第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)
+- [🌍物理削除＆論理削除](https://yuminnk-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)
+- [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)
 
 
 <!--
