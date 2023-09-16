@@ -17,7 +17,7 @@ jobs:
 
       - name: Setup Git identity
         run: |
-          git config --global user.name 'devYuMinKim'
+          git config --global user.name 'yuminnk'
           git config --global user.email 'gimyumin40@gmail.com'
 
       - name: Check out repository
@@ -26,7 +26,7 @@ jobs:
           fetch-depth: 0
 
       - name: Add another repository
-        run: git clone https://github.com/devYuMinKim/devYuMinKim.git && cd devYuMinKim
+        run: git clone https://github.com/yuminn-k/yuminn-k.git && cd yuminn-k
 
       - name: Install dependencies
         run: |
@@ -35,7 +35,7 @@ jobs:
 
       - name: Run the script
         env:
-          URL: "https://devyuminkim-devlog.vercel.app"
+          URL: "https://yuminnk-devlog.vercel.app"
           CSS_SELECTOR: "#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div"
         run: |
           python blog_posts_scraper.py
