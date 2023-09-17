@@ -1,4 +1,10 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
+
+<!-- For Check
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminn-k&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true">
+-->
+
 <div align="center">
 <br><br><br>
 
