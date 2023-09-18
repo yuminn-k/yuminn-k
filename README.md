@@ -37,9 +37,9 @@
 
 ### 📝 Blog Post
 
-- [👥初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)
-- [🍙今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)
-- [I/O Extended 2023 Seoul レビュー](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)
+- [🌎グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)
+- [Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)
+- [📰私が毎日日本のニュースを読んでいる理由について](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)
 
 
 <!--
