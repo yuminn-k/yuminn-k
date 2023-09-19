@@ -1,8 +1,8 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-<!-- For Check
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuminn-k&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true">
+<!-- For Stat Check
+![yuminn-k github stats](https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
+  ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=yuminn-k&hide=scss,css,html&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
 -->
 
 <div align="center">
@@ -22,7 +22,8 @@
 ### 🛠  Tech Stack
 
 💻  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-🔩  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+📚  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+🔩  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🎞 Project Experience
 
@@ -37,10 +38,9 @@
 
 ### 📝 Blog Post
 
-[📝技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
-[⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
-
+[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
+[📝リーダーの役割について考え直すことができたチームプロジェクト、「大学ESG実践フォーラム」の回顧](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7)  
+[🇯🇵またもやN1合格証をいただきました](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
