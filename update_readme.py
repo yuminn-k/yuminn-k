@@ -4,7 +4,7 @@ from pathlib import Path
 def format_post(post):
     title = post["title"]
     url = post["url"]
-    return f"- [{title}]({url})"
+    return f"[{title}]({url})  "
 
 def update_readme(posts):
     template_path = Path("README_template.md")
