@@ -27,9 +27,9 @@
 
 ### 🎞 Project Experience
 
-[ESGForum](https://github.com/ESGForumWebSiteDev) | [フルスタックエンジニア](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7) (2023.07 ~ 2023.09)  
-[食べようか](https://github.com/Tabeyouka) | [バックエンドエンジニア](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7) (2023.05 ~ 2023.07)  
-[Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [フルスタックエンジニア](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
+[ESGForum](https://github.com/ESGForumWebSiteDev) | [フルスタック](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7) (2023.07 ~ 2023.09)  
+[食べようか](https://github.com/Tabeyouka) | [バックエンド](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7) (2023.05 ~ 2023.07)  
+[Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [フルスタック](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
 
 ### 🙌 Share
 
