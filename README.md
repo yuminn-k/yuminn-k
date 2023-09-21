@@ -38,9 +38,9 @@
 
 ### 📝 Random Blog Post
 
-[✏️ペンシル説明会](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A)  
-[👥初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
-[🍙今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
+[🤖2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[JWT란? 왜 사용할까? 장단점은?](https://yuminnk-devlog.vercel.app/jwt%EB%9E%80-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C-%EC%9E%A5%EB%8B%A8%EC%A0%90%EC%9D%80)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
