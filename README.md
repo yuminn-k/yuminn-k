@@ -38,9 +38,9 @@
 
 ### 📝 Random Blog Post
 
-[🤖2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
-[JWT란? 왜 사용할까? 장단점은?](https://yuminnk-devlog.vercel.app/jwt%EB%9E%80-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C-%EC%9E%A5%EB%8B%A8%EC%A0%90%EC%9D%80)  
+[⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
+[GitHub Actionを利用してREADME.mdにブログ記事を表示する方法](https://yuminnk-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)  
+[🇯🇵またもやN1合格証をいただきました](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
