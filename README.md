@@ -13,10 +13,9 @@
 ---
 
 歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
-地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)を続いています ✍🏻  
+地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
 クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
-私についてご興味できた方はこの[リンク]()をご確認ください 📝
-  <!--私についてご興味できた方はこの[リンク](https://www.notion.so/64bd48e441a44f4899fb75844280c58c?pvs=4)をご確認ください 📝-->
+私についてご興味できた方はこの[リンク](https://yuminnk-portfolio.vercel.app/)をご確認ください 📝
 
 
 ### 🛠  Tech Stack
@@ -38,9 +37,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🗣️先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[🧑🏻‍🚀Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
-[🌎グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
+[🇯🇵またもやN1合格証をいただきました](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
+[Ignition CLI: Laravel開発のための新しいツール](https://yuminnk-devlog.vercel.app/ignition-cli-laravel%E9%96%8B%E7%99%BA%E6%96%B0)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
