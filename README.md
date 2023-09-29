@@ -37,9 +37,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🤖2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
+[🈂️サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
 [🎮サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
-[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
+[👨🏻‍💻仕事ができる新人エンジニアになる方法](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
