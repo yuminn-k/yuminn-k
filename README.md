@@ -37,9 +37,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
-[🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
-[🐳Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
+[GDSC JOB FAIR 2023Google Developer Student Clubs Job Fair 2023に参加しました！2023년 07월 15일Conference](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」「우아한테크세미나」をオンラインで参加しました2023년 07월 06일Conference](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
+[チームラボ説明会(2)9月23日、チームラボで行われた韓国人採用説明会に参加してきました!2023년 09월 23일JapanCompany briefing](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
