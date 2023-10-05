@@ -37,9 +37,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
+[SoftBank Tech Nightレビュー2023年7月28日に開かれたSoftBank Tech Nightレビュー2023년 07월 29일Conference](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 [🐳DockerについてDockerを本格的に勉強するに先立ってDockerがどんな機能を持っていてどうして使うのかについてまとめました。2023년 07월 17일Docker](https://yuminnk-devlog.vercel.app/docker)  
-[👨🏻‍💻仕事ができる新人エンジニアになる方法新人エンジニアとしてどうすればいいか2023년 07월 05일Conference](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
-[📅2022年の振り返りと2023年の目標設定2023年を迎えながら2023년 07월 06일Memoirs](https://yuminnk-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
+[👆🏻2023年上半期の振り返り： 大学生開発者としての成長と挑戦2023年の上半期を振り返りしてみました2023년 07월 06일Memoirs](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
