@@ -37,9 +37,7 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[📝技術ブログをなぜ、どのように書くべきか技術ブログをなぜ書かなければならないか2023년 07월 05일Blog](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
-[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上ADRパターンを適用したらどんなメリットがあるか書いてみました2023년 07월 06일Laravel](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
-[サイバーエージェント先輩との出会い東京に来て初めてあべまタワーにも行き、サイバーエージェントで働いている先輩とも食事の時間を過ごしました。2023년 09월 23일JapanCompany briefing](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
