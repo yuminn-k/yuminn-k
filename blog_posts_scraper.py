@@ -38,7 +38,7 @@ def get_random_blog_posts(url, css_selector):
                 href = url.rstrip("/") + href.lstrip(".")
 
             post_data = {
-                "title": title,
+                "title": title_decoded,
                 "url": href,
             }
 
