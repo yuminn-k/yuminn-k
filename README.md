@@ -37,9 +37,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[Gitãã©ã³ãæ¦ç¥ã¨ã¯ï¼(feat. Git Flow, Github Flowã«ã¤ãã¦)ãã­ã¸ã§ã¯ããè¡ãæãè¯ãé­éããGitãã©ã³ãã¯ã©ããã£ã¦ä½¿ãã¹ããã«ã¤ãã¦ã¾ã¨ãã¦ã¿ã¾ããã](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
-[ðæè¡ãã­ã°ããªããã©ã®ããã«æ¸ãã¹ããæè¡ãã­ã°ããªãæ¸ããªããã°ãªããªãã](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
-[ð¤](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
+[🗣️先輩のスンヒョンさんとの出会い今年の3月先輩との久しぶりの出会いを記録しました。](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)プロジェクトを行う時、良く遭遇するGitブランチはどうやって使うべきかについてまとめてみました。](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
+[Laravel 9 vs 10：何が変わったのか？今年2月、Laravelのバージョンが9から10に上がることで起きた違いについてまとめてみました。](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
