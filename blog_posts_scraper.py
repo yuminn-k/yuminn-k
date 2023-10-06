@@ -26,6 +26,11 @@ def get_random_blog_posts(url, css_selector):
 
         for link in selected_links:
             title = link.text.strip()
+            
+            if '202' in title:
+                index_202 = title.index('202')
+                title = title[:index_202]
+                
             href = link["href"]
 
             if not is_absolute(href):
