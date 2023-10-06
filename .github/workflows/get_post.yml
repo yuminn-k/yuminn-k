@@ -36,7 +36,7 @@ jobs:
       - name: Run the script
         env:
           URL: "https://yuminnk-devlog.vercel.app"
-          CSS_SELECTOR: "#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div"
+          CSS_SELECTOR: "#__next > div:nth-child(2) > div > div.notion-frame > div > main > div.notion-page-content > article > div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6 > div:nth-child(2) > div > div > a:nth-child(1) > div.notion-collection-card-body > div:nth-child(1) > span > span > span > span"
         run: |
           python blog_posts_scraper.py
           python update_readme.py
