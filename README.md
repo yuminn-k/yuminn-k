@@ -1,6 +1,7 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
 <!-- For Stat Check
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuminn-k&" alt="yuminn-k" /></p>
 ![yuminn-k github stats](https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
   ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=yuminn-k&hide=scss,css,html&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
 -->
@@ -37,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🗣️先輩のスンヒョンさんとの出会い今年の3月先輩との久しぶりの出会いを記録しました。](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)プロジェクトを行う時、良く遭遇するGitブランチはどうやって使うべきかについてまとめてみました。](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
-[Laravel 9 vs 10：何が変わったのか？今年2月、Laravelのバージョンが9から10に上がることで起きた違いについてまとめてみました。](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
+[](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[👥初めてのチームプロジェクト回顧初めてのチームプロジェクトを経験しました。](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
+[👨🏻‍💻仕事ができる新人エンジニアになる方法新人エンジニアとしてどうすればいいか](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
