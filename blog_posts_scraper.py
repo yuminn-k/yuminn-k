@@ -25,11 +25,12 @@ def get_random_blog_posts(url, css_selector):
         selected_links = random.sample(all_links, min(3, len(all_links)))
 
         for link in selected_links:
-            title = link.text.strip()
+            title_raw = link.text.strip()
+            title_decoded = bytes(title_raw, "utf-8").decode("unicode_escape")
 
-            if '202' in title:
-                index_202 = title.index('202')
-                title = title[:index_202]
+            if '202' in title_decoded:
+                index_202 = title_decoded.index('202')
+                title_decoded= title_decoded[:index_202]
                         
             href = link["href"]
         
