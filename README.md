@@ -38,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
-[👥初めてのチームプロジェクト回顧初めてのチームプロジェクトを経験しました。](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
-[👨🏻‍💻仕事ができる新人エンジニアになる方法新人エンジニアとしてどうすればいいか](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
+[GitHub Actionを利用してREADME.mdにブログ記事を表示する方法Github Actionを活用してREADME.mdにポスト更新を自動化します](https://yuminnk-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)  
+[📅](https://yuminnk-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
+[チームラボ説明会(2)9月23日、チームラボで行われた韓国人採用説明会に参加してきました!](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
