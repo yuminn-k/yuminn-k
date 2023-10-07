@@ -38,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🇯🇵またもやN1合格証をいただきました2回目のN1合格証を貰った感想](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
-[⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)git pullの時発生するwarningの解決方法](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
-[Laravel 9 vs 10：何が変わったのか？今年2月、Laravelのバージョンが9から10に上がることで起きた違いについてまとめてみました。](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
+[🤖ChatGPT, 開発者は安全か？ :) ChatGPTが開発者にどんな影響を与えるか](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
+[🇯🇵福岡での１ヶ月、日本就職への一歩👣 :) 8月、福岡で１ヶ月間研修に参加してきました！](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上 :) ADRパターンを適用したらどんなメリットがあるか書いてみました](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
