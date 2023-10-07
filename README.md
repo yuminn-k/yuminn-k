@@ -38,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[GitHub Actionを利用してREADME.mdにブログ記事を表示する方法Github Actionを活用してREADME.mdにポスト更新を自動化します](https://yuminnk-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)  
-[📅](https://yuminnk-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
-[チームラボ説明会(2)9月23日、チームラボで行われた韓国人採用説明会に参加してきました!](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[🇯🇵またもやN1合格証をいただきました2回目のN1合格証を貰った感想](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
+[⚠️git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)git pullの時発生するwarningの解決方法](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
+[Laravel 9 vs 10：何が変わったのか？今年2月、Laravelのバージョンが9から10に上がることで起きた違いについてまとめてみました。](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
