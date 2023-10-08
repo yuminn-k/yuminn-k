@@ -38,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🤖ChatGPT, 開発者は安全か？ :) ChatGPTが開発者にどんな影響を与えるか](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
-[🇯🇵福岡での１ヶ月、日本就職への一歩👣 :) 8月、福岡で１ヶ月間研修に参加してきました！](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
-[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上 :) ADRパターンを適用したらどんなメリットがあるか書いてみました](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
+[GDSC JOB FAIR ](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[🐳Dockerについて :) Dockerを本格的に勉強するに先立ってDockerがどんな機能を持っていてどうして使うのかについてまとめました。](https://yuminnk-devlog.vercel.app/docker)  
+[👨🏻‍💻仕事ができる新人エンジニアになる方法 :) 新人エンジニアとしてどうすればいいか](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
