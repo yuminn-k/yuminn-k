@@ -38,9 +38,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[GDSC JOB FAIR ](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
-[🐳Dockerについて :) Dockerを本格的に勉強するに先立ってDockerがどんな機能を持っていてどうして使うのかについてまとめました。](https://yuminnk-devlog.vercel.app/docker)  
-[👨🏻‍💻仕事ができる新人エンジニアになる方法 :) 新人エンジニアとしてどうすればいいか](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
+[🗣️先輩のスンヒョンさんとの出会い :) 今年の3月先輩との久しぶりの出会いを記録しました。](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[🇯🇵福岡での１ヶ月、日本就職への一歩👣 :) 8月、福岡で１ヶ月間研修に参加してきました！](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
+[SoftBank Tech Nightレビュー :) ](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
