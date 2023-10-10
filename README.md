@@ -2,6 +2,7 @@
 
 <!-- For Stat Check
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuminn-k&" alt="yuminn-k" /></p>
+
 ![yuminn-k github stats](https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&line_height=28)
   ![most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=yuminn-k&hide=scss,css,html&layout=compact&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&langs_count=30&card_width=360)
 -->
@@ -38,9 +39,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🗣️先輩のスンヒョンさんとの出会い :) 今年の3月先輩との久しぶりの出会いを記録しました。](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[🇯🇵福岡での１ヶ月、日本就職への一歩👣 :) 8月、福岡で１ヶ月間研修に参加してきました！](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
-[SoftBank Tech Nightレビュー :) ](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
+[I/O Extended ](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)  
+[🇯🇵またもやN1合格証をいただきました :) 2回目のN1合格証を貰った感想](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
+[🌍物理削除＆論理削除 :) グローバルゾンのデータベースを修正しながら学んだことです](https://yuminnk-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
