@@ -39,9 +39,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[👆🏻](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
-[Laravel 9 vs 10：何が変わったのか？ :) 今年2月、Laravelのバージョンが9から10に上がることで起きた違いについてまとめてみました。](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
-[チームラボ説明会(2) :) 9月23日、チームラボで行われた韓国人採用説明会に参加してきました!](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[🈂️サイバーエージェント説明会(1) :) 学校で行われたサイバーエージェントの説明会の後期です。](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[🎮サイバーコネクトツー見学 :) サイバーコネクトツーの見学してきました！](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
+[SoftBank Tech Nightレビュー :) ](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
