@@ -39,8 +39,8 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🈂️サイバーエージェント説明会(1) :) 学校で行われたサイバーエージェントの説明会の後期です。](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
-[🎮サイバーコネクトツー見学 :) サイバーコネクトツーの見学してきました！](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
+[サイバーエージェント先輩との出会い :) 東京に来て初めてあべまタワーにも行き、サイバーエージェントで働いている先輩とも食事の時間を過ごしました。](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[🧑🏻‍🚀Postman Fukuoka Meetup ](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
 [SoftBank Tech Nightレビュー :) ](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 <!--
