@@ -39,9 +39,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[🍙今年初めてのチームプロジェクト、「食べようか」の回顧 :) 今年初めてのチームプロジェクト、「食べようか」を終わらせて感じたことについて書いてみようと思います。](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
+[✏️ペンシル説明会 :) 学校で行われたペンシルの説明会の後期です。](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上 :) ADRパターンを適用したらどんなメリットがあるか書いてみました](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
 [🎮サイバーコネクトツー見学 :) サイバーコネクトツーの見学してきました！](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
-[🇯🇵またもやN1合格証をいただきました :) 2回目のN1合格証を貰った感想](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
