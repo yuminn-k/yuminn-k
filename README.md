@@ -39,9 +39,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[GitHub Actionを利用してREADME.mdにブログ記事を表示する方法 :) Github Actionを活用してREADME.mdにポスト更新を自動化します](https://yuminnk-devlog.vercel.app/github-action%E5%88%A9%E7%94%A8readmemd%E8%A8%98%E4%BA%8B%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95)  
-[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上 :) ADRパターンを適用したらどんなメリットがあるか書いてみました](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
-[👨🏻‍💻上位1%エンジニアの7つの簡単な習慣 :) エリートコーダーが他のコーダーよりも優れた能力を発揮する方法について](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
+[Laravelでapi.phpとweb.phpの違いは？ :) api.phpとweb.phpの違さが分からなくて調べてみました](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
+[🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣 :) 1 day 1 commitを１年間続けた結果](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
+[](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
