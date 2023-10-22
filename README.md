@@ -39,9 +39,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[Laravelでapi.phpとweb.phpの違いは？ :) api.phpとweb.phpの違さが分からなくて調べてみました](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
-[🌿1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣 :) 1 day 1 commitを１年間続けた結果](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
-[](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[技育祭](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
+[👥初めてのチームプロジェクト回顧 :) 初めてのチームプロジェクトを経験しました。](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
+[📰私が毎日日本のニュースを読んでいる理由について :) １年間私が毎日日本のニュースを読んでいる理由について話してみたいと思います。](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
