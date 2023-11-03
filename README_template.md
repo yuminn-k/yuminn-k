@@ -17,7 +17,7 @@
 歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
 地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
 クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
-私についてご興味できた方はこの[リンク](https://yuminnk-portfolio.vercel.app/)をご確認ください 📝
+私についてご興味できた方はこの[リンク](https://yuminnk-devlog.vercel.app/)をご確認ください 📝
 
 
 ### 🛠  Tech Stack
