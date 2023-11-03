@@ -17,7 +17,7 @@
 歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
 地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
 クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
-私についてご興味できた方はこの[リンク](https://yuminnk-portfolio.vercel.app/)をご確認ください 📝
+私についてご興味できた方はこの[リンク](https://yuminnk-devlog.vercel.app/)をご確認ください 📝
 
 
 ### 🛠  Tech Stack
@@ -40,9 +40,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
-[ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
-[2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
+[サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
