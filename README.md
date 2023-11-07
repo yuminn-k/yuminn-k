@@ -17,7 +17,7 @@
 歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
 地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
 クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
-私についてご興味できた方は[ブログ](https://yuminnk-devlog.vercel.app)この[リンク](https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor)をご確認ください 📝
+私についてご興味できた方は[ブログ](https://yuminnk-devlog.vercel.app)やこの[リンク](https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor)をご確認ください 📝
 
 
 ### 🛠  Tech Stack
@@ -40,9 +40,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
-[Laravel 9 vs 10：何が変わったのか？](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
-[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[Github Flowの改良版？ GitLab Flow](https://yuminnk-devlog.vercel.app/github-flow%E6%94%B9%E8%89%AF%E7%89%88-gitlab-flow)  
+[開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
+[今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
