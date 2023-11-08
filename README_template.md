@@ -28,11 +28,13 @@
 🌐 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
 
 ### 🎞 Project Experience
+#### Team Project
 [Fukuoka Album](https://github.com/orgs/2024-yju-capston-team3/repositories) | [フロントエンド](https://github.com/2024-yju-capston-team3/project_fukuoka-album-deployment-repo) (2023.10)  
 [ESGForum](https://github.com/ESGForumWebSiteDev) | [フルスタック](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7) (2023.07 ~ 2023.09)  
 [食べようか](https://github.com/Tabeyouka) | [バックエンド](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7) (2023.06 ~ 2023.08)  
 [Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [フルスタック](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
-  
+
+#### Personal Proejct
 [JITSU](https://github.com/yuminn-k/project_JITSU-deployment-repo) | [フルスタック](https://github.com/yuminn-k/project_JITSU-deployment-repo/wiki) (2023.10 ~ 現在)  
 [3-AD](https://github.com/yuminn-k/yuminn-k) | [バックエンド](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A) (2023.07)  
 
