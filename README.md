@@ -45,9 +45,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[私が毎日日本のニュースを読んでいる理由について](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)  
-[Github Flowの改良版？ GitLab Flow](https://yuminnk-devlog.vercel.app/github-flow%E6%94%B9%E8%89%AF%E7%89%88-gitlab-flow)  
-[失われた開発者の時間を求めて： 毎日を大切にするDevOpsの話](https://yuminnk-devlog.vercel.app/%E5%A4%B1%E9%96%8B%E7%99%BA%E8%80%85%E6%99%82%E9%96%93%E6%B1%82-%E6%AF%8E%E6%97%A5%E5%A4%A7%E5%88%87devops%E8%A9%B1)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
+[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
+[技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
