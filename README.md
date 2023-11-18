@@ -45,9 +45,9 @@
 
 ### [📝 Random Blog Post](https://yuminnk-devlog.vercel.app/)
 
-[開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
-[私が毎日日本のニュースを読んでいる理由について](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)  
-[サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
+[仕事ができる新人エンジニアになる方法](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
+[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
