@@ -43,7 +43,7 @@
 [Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.09)
 
 
-### [📝 Blog Post](https://yuminnk-devlog.vercel.app/)
+### [📝 Blog Posts](https://yuminnk-devlog.vercel.app/)
 
 {posts}
 
