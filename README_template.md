@@ -35,8 +35,12 @@
 [Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [フルスタック](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
 
 #### Personal Proejct
-[JITSU](https://github.com/yuminn-k/project_JITSU-deployment-repo) | [フルスタック](https://github.com/yuminn-k/project_JITSU-deployment-repo/wiki) (2023.10 ~ 現在)  
+[JITSU](https://github.com/yuminn-k/project_JITSU-deployment-repo) | [フルスタック](https://github.com/yuminn-k/project_JITSU-deployment-repo/wiki) (2023.10 ~ 2023.12)  
 [3-AD](https://github.com/yuminn-k/yuminn-k) | [バックエンド](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A) (2023.07)  
+
+#### 配布中
+[ESGForum](http://15.165.129.233/)  
+[JITSU](https://port-9000-project-jitsu-deployment-repo-jvpb2mlogpt1ym.sel5.cloudtype.app/)
 
 ### 🙌 Share
 
