@@ -49,9 +49,9 @@
 
 ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-[git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
+[開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
+[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
+[先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
