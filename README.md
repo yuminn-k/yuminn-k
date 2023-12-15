@@ -38,10 +38,6 @@
 [JITSU](https://github.com/yuminn-k/project_JITSU-deployment-repo) | [フルスタック](https://github.com/yuminn-k/project_JITSU-deployment-repo/wiki) (2023.10 ~ 2023.12)  
 [3-AD](https://github.com/yuminn-k/yuminn-k) | [バックエンド](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A) (2023.07)  
 
-#### 配布中
-[ESGForum](http://15.165.129.233/)  
-[JITSU](https://port-9000-project-jitsu-deployment-repo-jvpb2mlogpt1ym.sel5.cloudtype.app/)
-
 ### 🙌 Share
 
 [Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.09)
@@ -49,9 +45,9 @@
 
 ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-[仕事ができる新人エンジニアになる方法](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
 [I/O Extended 2023 Seoul レビュー](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)  
-[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
