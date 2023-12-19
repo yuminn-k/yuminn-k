@@ -45,9 +45,9 @@
 
 ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-[I/O Extended 2023 Seoul レビュー](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)  
-[サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
 [ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
+[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
