@@ -44,9 +44,9 @@
 
 ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-[チームラボ説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
-[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
+[2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
