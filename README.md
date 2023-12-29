@@ -14,7 +14,7 @@
 
 ---
 
-歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
+歩んできた足跡を残すエンジニア、ユミンと申します 👣  
 地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
 クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
 私についてご興味できた方は[ブログ](https://yuminnk-devlog.vercel.app)やこの[ポートフォリオ](https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor)をご確認ください 📝
