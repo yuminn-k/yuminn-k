@@ -44,9 +44,9 @@
 
 ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-[技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
-[2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
-[チームラボ説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[福岡での１ヶ月、日本就職への一歩👣](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
 
 <!--
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
