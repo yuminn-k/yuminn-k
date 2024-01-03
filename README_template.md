@@ -21,8 +21,9 @@
     <a href="https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7"><img src="https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg" alt="Total time coded since Jan 2 2023" /></a> &nbsp
     <a href="mailto:gimymuin40@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gimyumin40@gmail.com"/></a>&nbsp
    <br/><br/>
-    <a href="https://yuminnk-devlog.vercel.app/"><img src="https://img.shields.io/badge/tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/></a>&nbsp
+    <a href="https://yuminnk-devlog.vercel.app/"><img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/></a>&nbsp
     <a href="https://qiita.com/yuminn-k"><img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/yuminn-k"/></a>&nbsp
+    <a href="https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor"><img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor"/></a>&nbsp
   </p>
   
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
