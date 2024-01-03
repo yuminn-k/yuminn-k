@@ -10,45 +10,25 @@
 <div align="center">
 <br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80素直でいいやつ+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+YuMin+Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  
+  ![](./profile-3d-contrib/profile-night-green.svg)
+  
+  <br><br><br>
+  
+  <p align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyuminn-k&count_bg=%233573CD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp 
+    <a href="https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7"><img src="https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg" alt="Total time coded since Jan 2 2023" /></a> &nbsp
+    <a href="mailto:gimymuin40@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gimyumin40@gmail.com"/></a>&nbsp
+   <br/><br/>
+    <a href="https://yuminnk-devlog.vercel.app/"><img src="https://img.shields.io/badge/tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/></a>&nbsp
+    <a href="https://qiita.com/yuminn-k"><img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/yuminn-k"/></a>&nbsp
+  </p>
+  
+  ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
+  
+  [Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
+[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
+[2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
 
----
-
-歩んできた足跡を残すフルスタックエンジニア、ユミンと申します 👣  
-地道さの力を信じ、[様々な活動](https://yuminnk-devlog.vercel.app/conference)を続いています ✍🏻  
-クリーンコードを志向し、チームメンバーとのコミュニケーションを重視するフルスタックエンジニアです 👨🏻‍💻  
-私についてご興味できた方は[ブログ](https://yuminnk-devlog.vercel.app)やこの[ポートフォリオ](https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor)をご確認ください 📝
-
-
-### 🛠  Tech Stack
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
-
-### 🎞 Project Experience
-#### Team Project
-[Fukuoka Album](https://github.com/orgs/2024-yju-capston-team3/repositories) | [フロントエンド](https://github.com/2024-yju-capston-team3/project_fukuoka-album-deployment-repo) (2023.10)  
-[ESGForum](https://github.com/ESGForumWebSiteDev) | [フルスタック](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7) (2023.07 ~ 2023.09)  
-[食べようか](https://github.com/Tabeyouka) | [バックエンド](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7) (2023.06 ~ 2023.08)  
-[Global Zone](https://github.com/2P3S/project_E-GLOBAL-ZONE_main-repo) | [フルスタック](https://devyuminkim-devlog.vercel.app/%E5%BC%95%E7%B6%99) (2023.02 ~ )
-
-#### Personal Proejct
-[JITSU](https://github.com/yuminn-k/project_JITSU-deployment-repo) | [フルスタック](https://github.com/yuminn-k/project_JITSU-deployment-repo/wiki) (2023.10 ~ 2023.12)  
-[3-AD](https://github.com/yuminn-k/yuminn-k) | [バックエンド](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A) (2023.07)  
-
-### 🙌 Share
-
-[Laravel Documentation Translation Task](https://github.com/laravelkr/docs) (2023.04 ~ 2023.09)
-
-
-### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
-
-[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
-[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
-[私が毎日日本のニュースを読んでいる理由について](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)  
-
-<!--
-![](./profile-3d-contrib/profile-night-rainbow.svg)
--->
 </div>
