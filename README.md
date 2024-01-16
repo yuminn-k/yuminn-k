@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
-[サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
-[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
+  [物理削除＆論理削除](https://yuminnk-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)  
+[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
+[開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
 
 </div>
