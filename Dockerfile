@@ -19,4 +19,4 @@ RUN git config --global user.email "gimyumin40@gmail.com"
 COPY . .
 
 # スクリプト実行
-CMD ["sh", "-c", "python blog_posts_scraper.py && python update_readme.py && cp README.md /app/ && git add README.md && git commit -m 'Updated README.md with recent blog posts'"]
+CMD ["sh", "-c", "python blog_posts_scraper.py && python update_readme.py && git add README.md && git commit -m 'Updated README.md with recent blog posts'"]
