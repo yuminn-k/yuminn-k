@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
+  [上位1%エンジニアの7つの簡単な習慣](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
+[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
+[ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
 
 </div>
