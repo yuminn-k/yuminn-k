@@ -10,16 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: "3.x"
-
-      - name: Setup Git identity
-        run: |
-          git config --global user.name 'yuminnk'
-          git config --global user.email 'gimyumin40@gmail.com'
-
       - name: Check out repository
         uses: actions/checkout@v2
         with:
@@ -42,7 +32,4 @@ jobs:
           git config --global user.email 'gimyumin40@gmail.com'
 
       - name: Commit changes
-        run: |
-          git add README.md
-          git commit -m "Updated README.md with recent blog posts"
-          git push origin main
+        run: git push origin main
