@@ -18,13 +18,13 @@ jobs:
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
 
+      - name: Add another repository
+        run: git clone https://github.com/yuminn-k/yuminn-k.git && cd yuminn-k
+
       - name: Build and run Docker image
         run: |
           docker build -t blog_scraper .
           docker run --env URL="https://yuminnk-devlog.vercel.app" --env CSS_SELECTOR="#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div" blog_scraper
-
-      - name: Add another repository
-        run: git clone https://github.com/yuminn-k/yuminn-k.git && cd yuminn-k
 
       - name: Commit changes
         run: git push origin main
