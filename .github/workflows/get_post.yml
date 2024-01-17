@@ -15,11 +15,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setip Git identity
-        run: |
-          git config --global user.name 'yuminnk'
-          git config --global user.email 'gimyumin40@gmail.com'
-
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
 

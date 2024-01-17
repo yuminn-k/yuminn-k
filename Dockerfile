@@ -11,6 +11,10 @@ RUN apt-get update && apt-get install -y \git
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Gitユーザー名とメールアドレスを設定
+RUN git config --global user.name "yuminnk"
+RUN git config --global user.email "gimyumin40@gmail.com"
+
 # アプリケーションコードをDockerコンテナにコピー
 COPY . .
 
