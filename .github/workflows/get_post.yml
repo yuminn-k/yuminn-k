@@ -26,5 +26,11 @@ jobs:
           docker build -t blog_scraper .
           docker run --env URL="https://yuminnk-devlog.vercel.app" --env CSS_SELECTOR="#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div" blog_scraper
 
+      - name: Copy updated README.md
+        run: docker cp $(docker ps -lq):/app/README.md .
+
       - name: Commit changes
-        run: git push origin main
+        run: |
+          git add README.md
+          git commit -m "Updated README.md with recent blog posts"
+          git push origin main
