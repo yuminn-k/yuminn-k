@@ -25,21 +25,24 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Build and run Docker image
+        run: |
+          docker build -t blog_scraper .
+          docker run --env URL="https://yuminnk-devlog.vercel.app" --env CSS_SELECTOR="#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div" blog_scraper
+
       - name: Add another repository
         run: git clone https://github.com/yuminn-k/yuminn-k.git && cd yuminn-k
 
-      - name: Install dependencies
+      - name: Setip Git identity
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          git config --global user.name 'yuminnk'
+          git config --global user.email 'gimyumin40@gmail.com'
 
-      - name: Run the script
-        env:
-          URL: "https://yuminnk-devlog.vercel.app"
-          CSS_SELECTOR: "#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div"
+      - name: Commit changes
         run: |
-          python blog_posts_scraper.py
-          python update_readme.py
           git add README.md
           git commit -m "Updated README.md with recent blog posts"
           git push origin main
