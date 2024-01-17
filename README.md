@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
-[チームラボ説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
-[Dockerのコアについてまとめてみよう](https://yuminnk-devlog.vercel.app/docker)  
+  [Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
 
 </div>
