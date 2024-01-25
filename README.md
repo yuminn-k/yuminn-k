@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [私が毎日日本のニュースを読んでいる理由について](https://yuminnk-devlog.vercel.app/%E7%A7%81%E6%AF%8E%E6%97%A5%E6%97%A5%E6%9C%AC%E8%AA%AD%E7%90%86%E7%94%B1)  
-[初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
-[Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
+  [混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
 
 </div>
