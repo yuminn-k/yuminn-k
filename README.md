@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[📝 コミットログを整理してくれる救世主、Gitmoji](https://yuminnk-devlog.vercel.app/%E6%95%B4%E7%90%86%E6%95%91%E4%B8%96%E4%B8%BBgitmoji)  
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
+  [2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
 
 </div>
