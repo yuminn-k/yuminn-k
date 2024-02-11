@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
+  [git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
 [Dockerのコアについてまとめてみよう](https://yuminnk-devlog.vercel.app/docker)  
+[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
 
 </div>
