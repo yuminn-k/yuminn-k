@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
-[ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
-[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
+  [Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
+[ペンシル説明会](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A)  
+[1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
 
 </div>
