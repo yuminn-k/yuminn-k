@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
-[Github Flowの改良版？ GitLab Flow](https://yuminnk-devlog.vercel.app/github-flow%E6%94%B9%E8%89%AF%E7%89%88-gitlab-flow)  
-[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+  [技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
+[📝 コミットログを整理してくれる救世主、Gitmoji](https://yuminnk-devlog.vercel.app/%E6%95%B4%E7%90%86%E6%95%91%E4%B8%96%E4%B8%BBgitmoji)  
+[先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
 
 </div>
