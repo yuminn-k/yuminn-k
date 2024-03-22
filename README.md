@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
-[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
-[Laravel 9 vs 10：何が変わったのか？](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
+  [2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
+[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
+[CI/CDパイプラインを構築してみよう](https://yuminnk-devlog.vercel.app/cicd%E6%A7%8B%E7%AF%89)  
 
 </div>
