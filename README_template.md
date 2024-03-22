@@ -37,8 +37,8 @@
     <a href="https://qiita.com/yuminn-k">
       <img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/yuminn-k"/>
     </a>&nbsp
-    <a href="https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+    <a href="https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio"/>
     </a>&nbsp
   </p>
 
