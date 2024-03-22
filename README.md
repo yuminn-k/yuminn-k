@@ -37,15 +37,15 @@
     <a href="https://qiita.com/yuminn-k">
       <img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/yuminn-k"/>
     </a>&nbsp
-    <a href="https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor">
-      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.canva.com/design/DAFytbDXCuk/9BA88UDVrUlb7a_-YQG5Dw/view?utm_content=DAFytbDXCuk&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
+    <a href="https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio"/>
     </a>&nbsp
   </p>
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
-[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
-[サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
+  [ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
+[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
+[Laravel 9 vs 10：何が変わったのか？](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
 
 </div>
