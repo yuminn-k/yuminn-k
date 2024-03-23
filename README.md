@@ -34,18 +34,18 @@
     <a href="https://yuminnk-devlog.vercel.app/">
       <img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/>
     </a>&nbsp
-    <a href="https://qiita.com/yuminn-k">
+<!--     <a href="https://qiita.com/yuminn-k">
       <img src="https://img.shields.io/badge/Qiita blog-11B48A?style=flat-square&logo=Qiita&logoColor=white&link=https://qiita.com/yuminn-k"/>
-    </a>&nbsp
-    <a href="https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/ZJLDPG-yuminkim-portfolio"/>
+    </a>&nbsp -->
+    <a href="https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio"/>
     </a>&nbsp
   </p>
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
-[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
-[CI/CDパイプラインを構築してみよう](https://yuminnk-devlog.vercel.app/cicd%E6%A7%8B%E7%AF%89)  
+  [物理削除＆論理削除](https://yuminnk-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)  
+[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 </div>
