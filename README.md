@@ -47,8 +47,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Kubernetes Novice Tokyo #30で学んだ、Kubernetesのセキュリティとプログレッシブデリバリー](https://yuminnk-devlog.vercel.app/kubernetes-novice-tokyo-30%E5%AD%A6kubernetes)  
+  [2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
 [サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
-[Github Flowの改良版？ GitLab Flow](https://yuminnk-devlog.vercel.app/github-flow%E6%94%B9%E8%89%AF%E7%89%88-gitlab-flow)  
+[2022年の振り返りと2023年の目標設定](https://yuminnk-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
 
 </div>
