@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
-[仕事ができる新人エンジニアになる方法](https://yuminnk-devlog.vercel.app/%E4%BB%95%E4%BA%8B%E6%96%B0%E4%BA%BA%E6%96%B9%E6%B3%95)  
-[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
+  [グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[CI/CDパイプラインを構築してみよう](https://yuminnk-devlog.vercel.app/cicd%E6%A7%8B%E7%AF%89)  
+[またもやN1合格証をいただきました](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
 
 </div>
