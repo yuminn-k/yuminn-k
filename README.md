@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Laravel 9 vs 10：何が変わったのか？](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
-[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[物理削除＆論理削除](https://yuminnk-devlog.vercel.app/%E7%89%A9%E7%90%86%E5%89%8A%E9%99%A4%E8%AB%96%E7%90%86%E5%89%8A%E9%99%A4)  
+  [初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
+[Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
+[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
 
 </div>
