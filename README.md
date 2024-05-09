@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
+  [グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
+[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
 
 </div>
