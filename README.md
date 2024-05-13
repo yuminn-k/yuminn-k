@@ -11,7 +11,7 @@
 <div align="center">
   <br><br><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+YuMin.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+YuMin+Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_all_commits=true" width=48% />
@@ -37,15 +37,15 @@
     <a href="https://yuminnk-devlog.vercel.app/">
       <img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/>
     </a>&nbsp
-    <a href="https://www.docswell.com/s/7337670287/57VW3W-yuminkim-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/57VW3W-yuminkim-portfolio"/>
+    <a href="https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio"/>
     </a>&nbsp
   </p>
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Laravel 9 vs 10：何が変わったのか？](https://yuminnk-devlog.vercel.app/laravel-9-vs-10%E4%BD%95%E5%A4%89)  
-[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
-[技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
+  [Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
+[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
 
 </div>
