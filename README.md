@@ -11,7 +11,7 @@
 <div align="center">
   <br><br><br>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+YuMin+Kim.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+YuMin.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_all_commits=true" width=48% />
