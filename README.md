@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [ペンシル説明会](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A)  
-[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
+  [福岡での１ヶ月、日本就職への一歩👣](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
+[Kubernetes Novice Tokyo #30で学んだ、Kubernetesのセキュリティとプログレッシブデリバリー](https://yuminnk-devlog.vercel.app/kubernetes-novice-tokyo-30%E5%AD%A6kubernetes)  
+[ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
 
 </div>
