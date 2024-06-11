@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
-[CORSエラー、君は誰だ？](https://yuminnk-devlog.vercel.app/cors%E5%90%9B%E8%AA%B0)  
-[開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
+  [サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[失われた開発者の時間を求めて： 毎日を大切にするDevOpsの話](https://yuminnk-devlog.vercel.app/%E5%A4%B1%E9%96%8B%E7%99%BA%E8%80%85%E6%99%82%E9%96%93%E6%B1%82-%E6%AF%8E%E6%97%A5%E5%A4%A7%E5%88%87devops%E8%A9%B1)  
 
 </div>
