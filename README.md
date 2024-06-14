@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
-[Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
-[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+  [2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
+[Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
 
 </div>
