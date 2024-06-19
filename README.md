@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
-[チームラボ説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
-[Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
+  [リーダーの役割について考え直すことができたチームプロジェクト、「大学ESG実践フォーラム」の回顧](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7)  
+[チームラボ説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
 
 </div>
