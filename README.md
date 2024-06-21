@@ -44,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
-[失われた開発者の時間を求めて： 毎日を大切にするDevOpsの話](https://yuminnk-devlog.vercel.app/%E5%A4%B1%E9%96%8B%E7%99%BA%E8%80%85%E6%99%82%E9%96%93%E6%B1%82-%E6%AF%8E%E6%97%A5%E5%A4%A7%E5%88%87devops%E8%A9%B1)  
-[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
+  [1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
+[Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
 
 </div>
