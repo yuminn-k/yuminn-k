@@ -1,6 +1,6 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-<!--
+<!-- For Stat Check
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuminn-k&" alt="yuminn-k" />
 </p>
@@ -21,9 +21,6 @@
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuminn-k&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-  </a>
-  <a href="https://github.com/dlatth/github-readme-snake">
-    <img src="https://github.com/yuminn-k/yuminn-k/blob/output/github-snake.svg" width="94%">
   </a>
 
   <p align="center">
@@ -47,8 +44,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [CI/CDパイプラインを構築してみよう](https://yuminnk-devlog.vercel.app/cicd%E6%A7%8B%E7%AF%89)  
-[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
+  [Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
+[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
 
 </div>
