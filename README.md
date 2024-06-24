@@ -1,6 +1,6 @@
 <!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-<!-- For Stat Check
+<!--
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuminn-k&" alt="yuminn-k" />
 </p>
@@ -21,6 +21,9 @@
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuminn-k&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+  </a>
+  <a href="https://github.com/dlatth/github-readme-snake">
+      <img src="https://github.com/yuminn-k/yuminn-k/blob/output/github-snake.svg" width="94%">
   </a>
 
   <p align="center">
