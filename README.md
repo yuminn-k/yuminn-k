@@ -36,20 +36,17 @@
     </a> &nbsp
     <a href="mailto:gimymuin40@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=gimyumin40@gmail.com"/>
-    </a>&nbsp
-    <br/><br/>
+    </a> &nbsp
     <a href="https://yuminnk-devlog.vercel.app/">
       <img src="https://img.shields.io/badge/Tech blog-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yuminnk-devlog.vercel.app/"/>
-    </a>&nbsp
-    <a href="https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio">
-      <img src="https://img.shields.io/badge/Portfolio-FA8072?style=flat-square&logo=opsgenie&logoColor=&link=https://www.docswell.com/s/7337670287/524V6V-yuminkim-portfolio"/>
-    </a>&nbsp
+    </a>
+    <br/><br/>
   </p>
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
-[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+  [SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
+[Postman Fukuoka Meetup 2023.8](https://yuminnk-devlog.vercel.app/postman-fukuoka-meetup-20238)  
+[git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
 
 </div>
