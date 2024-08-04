@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [リーダーの役割について考え直すことができたチームプロジェクト、「大学ESG実践フォーラム」の回顧](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7)  
-[失われた開発者の時間を求めて： 毎日を大切にするDevOpsの話](https://yuminnk-devlog.vercel.app/%E5%A4%B1%E9%96%8B%E7%99%BA%E8%80%85%E6%99%82%E9%96%93%E6%B1%82-%E6%AF%8E%E6%97%A5%E5%A4%A7%E5%88%87devops%E8%A9%B1)  
-[先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+  [技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
+[Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
+[OpenAI CEOの来日と7つの約束](https://yuminnk-devlog.vercel.app/openai-ceo%E6%9D%A5%E6%97%A57%E7%B4%84%E6%9D%9F)  
 
 </div>
