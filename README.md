@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
-[Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
-[技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
+  [上位1%エンジニアの7つの簡単な習慣](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
+[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
 
 </div>
