@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [2023年の振り返りと2024年の目標設定](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E6%8C%AF%E8%BF%942024%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
-[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
+  [VS Code Git 10kの削除方法](https://yuminnk-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)  
+[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
+[2022年の振り返りと2023年の目標設定](https://yuminnk-devlog.vercel.app/2022%E5%B9%B4%E6%8C%AF%E8%BF%942023%E5%B9%B4%E7%9B%AE%E6%A8%99%E8%A8%AD%E5%AE%9A)  
 
 </div>
