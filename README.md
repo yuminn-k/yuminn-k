@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[上位1%エンジニアの7つの簡単な習慣](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
+  [開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
+[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
 
 </div>
