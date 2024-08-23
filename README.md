@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
-[Github Actionsを活用して自分のブログを報告してみよう!](https://yuminnk-devlog.vercel.app/github-actions%E6%B4%BB%E7%94%A8%E8%87%AA%E5%88%86%E5%A0%B1%E5%91%8A)  
-[先輩のスンヒョンさんとの出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+  [Docker Content Trust: コンテナイメージのセキュリティと整合性の保証](https://yuminnk-devlog.vercel.app/docker-content-trust-%E6%95%B4%E5%90%88%E6%80%A7%E4%BF%9D%E8%A8%BC)  
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
+[失われた開発者の時間を求めて： 毎日を大切にするDevOpsの話](https://yuminnk-devlog.vercel.app/%E5%A4%B1%E9%96%8B%E7%99%BA%E8%80%85%E6%99%82%E9%96%93%E6%B1%82-%E6%AF%8E%E6%97%A5%E5%A4%A7%E5%88%87devops%E8%A9%B1)  
 
 </div>
