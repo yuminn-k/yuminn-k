@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [初めてのチームプロジェクト回顧](https://yuminnk-devlog.vercel.app/%E5%88%9D%E5%9B%9E%E9%A1%A7)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
+  [技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
+[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
+[git pullの時発生するwarningの解決方法(Need to specify how to reconcile divergent branches)](https://yuminnk-devlog.vercel.app/git-pull%E6%99%82%E7%99%BA%E7%94%9Fwarning%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%B3%95need-to-specify-how-to-reconcile-divergent-branches)  
 
 </div>
