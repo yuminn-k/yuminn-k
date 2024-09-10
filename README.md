@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
-[Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
+  [Github Flowの改良版？ GitLab Flow](https://yuminnk-devlog.vercel.app/github-flow%E6%94%B9%E8%89%AF%E7%89%88-gitlab-flow)  
+[Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
+[Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
 
 </div>
