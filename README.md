@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3)  
-[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
-[技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
+  [開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
+[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
+[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
 
 </div>
