@@ -45,8 +45,8 @@
 
   ### [📝 記憶より記録を](https://yuminnk-devlog.vercel.app/)
 
-  [CORSエラー、君は誰だ？](https://yuminnk-devlog.vercel.app/cors%E5%90%9B%E8%AA%B0)  
-[📝 コミットログを整理してくれる救世主、Gitmoji](https://yuminnk-devlog.vercel.app/%E6%95%B4%E7%90%86%E6%95%91%E4%B8%96%E4%B8%BBgitmoji)  
-[Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
+  [Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
+[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
 
 </div>
