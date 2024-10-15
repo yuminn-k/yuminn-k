@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_all_commits=true&rank_icon=percentile" width=50% />
   </a>
   <a href="https://github.com/yuminn-k/github-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuminn_k&layout=compact&langs_count=10&hide=blade%20template&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=48% />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuminn_k&layout=compact&langs_count=10&hide=blade%20template,java,markdown&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=48% />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuminn-k&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
