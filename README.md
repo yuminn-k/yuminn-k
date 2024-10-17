@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[I/O Extended 2023 Seoul レビュー](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)  
-[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
-[Docker Content Trust: コンテナイメージのセキュリティと整合性の保証](https://yuminnk-devlog.vercel.app/docker-content-trust-%E6%95%B4%E5%90%88%E6%80%A7%E4%BF%9D%E8%A8%BC)  
+[Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
+[サイバーエージェント説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[福岡での１ヶ月、日本就職への一歩👣](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
 
 ### 🌟 Areas of Interest
 - SRE(Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
