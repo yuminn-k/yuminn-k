@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[リーダーの役割について考え直すことができたチームプロジェクト、「大学ESG実践フォーラム」の回顧](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7)  
-[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
-[上位1%エンジニアの7つの簡単な習慣](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
+[github labelを一度に適用する方法](https://yuminnk-devlog.vercel.app/github-label%E4%B8%80%E5%BA%A6%E9%81%A9%E7%94%A8%E6%96%B9%E6%B3%95)  
+[サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
+[開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
 
 ### 🌟 Areas of Interest
 - SRE(Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
