@@ -45,6 +45,8 @@ Version Control: Git, GitHub
   <a href="https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7">
     <img src="https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg" alt="Total time coded since Jan 2 2023" />
   </a>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
       
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yuminnk-devlog.vercel.app/)](https://yuminnk-devlog.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuminn-k/)](https://www.linkedin.com/in/yuminn-k/) 
