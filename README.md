@@ -53,7 +53,6 @@ Version Control: Git, GitHub
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
 
- Last Updated on 21/10/2024 00:47:16 UTC
 <!--END_SECTION:waka-->
 </p>
 
