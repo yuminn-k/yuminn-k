@@ -48,7 +48,7 @@ Version Control: Git, GitHub
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gimyumin40@gmail.com)](mailto:gimyumin40@gmail.com)
       
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
