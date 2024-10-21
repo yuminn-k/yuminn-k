@@ -51,37 +51,10 @@ Version Control: Git, GitHub
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2010%20mins-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1902 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-🌆 Daytime                6103 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
-🌃 Evening                3612 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-🌙 Night                  3115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Go                       5 hrs 17 mins       █████████████░░░░░░░░░░░░   53.24 % 
-YAML                     2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
-Docker                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-DockerIgnore file        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-
-🔥 Editors: 
-GoLand                   9 hrs 56 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/10/2024 00:21:09 UTC
+ Last Updated on 21/10/2024 00:47:16 UTC
 <!--END_SECTION:waka-->
       
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yuminnk-devlog.vercel.app/)](https://yuminnk-devlog.vercel.app/) 
