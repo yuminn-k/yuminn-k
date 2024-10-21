@@ -47,6 +47,7 @@ Version Control: Git, GitHub
   <a href="https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7">
     <img src="https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg" alt="Total time coded since Jan 2 2023" />
   </a>
+      
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2010%20mins-blue)
 
