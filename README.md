@@ -48,7 +48,40 @@ Version Control: Git, GitHub
     <img src="https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg" alt="Total time coded since Jan 2 2023" />
   </a>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2010%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1902 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌆 Daytime                6103 commits        ██████████░░░░░░░░░░░░░░░   41.43 % 
+🌃 Evening                3612 commits        ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+🌙 Night                  3115 commits        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Go                       5 hrs 17 mins       █████████████░░░░░░░░░░░░   53.24 % 
+YAML                     2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Docker                   1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Bash                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+DockerIgnore file        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+
+🔥 Editors: 
+GoLand                   9 hrs 56 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/10/2024 00:21:09 UTC
+<!--END_SECTION:waka-->
       
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yuminnk-devlog.vercel.app/)](https://yuminnk-devlog.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuminn-k/)](https://www.linkedin.com/in/yuminn-k/) 
