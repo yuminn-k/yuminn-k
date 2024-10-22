@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
+[福岡での１ヶ月、日本就職への一歩👣](https://yuminnk-devlog.vercel.app/%E7%A6%8F%E5%B2%A1%E6%9C%88%E6%97%A5%E6%9C%AC%E5%B0%B1%E8%81%B7%E4%B8%80%E6%AD%A9)  
+[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
+[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
