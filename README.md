@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[Gitブランチ戦略とは？(feat. Git Flow, Github Flowについて)](https://yuminnk-devlog.vercel.app/git%E6%88%A6%E7%95%A5feat-git-flow-github-flow)  
-[リーダーの役割について考え直すことができたチームプロジェクト、「大学ESG実践フォーラム」の回顧](https://yuminnk-devlog.vercel.app/%E5%BD%B9%E5%89%B2%E8%80%83%E7%9B%B4%E5%A4%A7%E5%AD%A6esg%E5%AE%9F%E8%B7%B5%E5%9B%9E%E9%A1%A7)  
-[ChatGPT, 開発者は安全か？](https://yuminnk-devlog.vercel.app/chatgpt-%E9%96%8B%E7%99%BA%E8%80%85%E5%AE%89%E5%85%A8)  
+[VS Code Git 10kの削除方法](https://yuminnk-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)  
+[2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
+[📝 コミットログを整理してくれる救世主、Gitmoji](https://yuminnk-devlog.vercel.app/%E6%95%B4%E7%90%86%E6%95%91%E4%B8%96%E4%B8%BBgitmoji)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2049%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
