@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[[우아한테크세미나] テックリーダー3人が語る「開発者の原則」](https://yuminnk-devlog.vercel.app/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-3%E4%BA%BA%E8%AA%9E%E9%96%8B%E7%99%BA%E8%80%85%E5%8E%9F%E5%89%87)  
-[Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
-[技育祭2023の感想](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%82%B2%E7%A5%AD2023%E6%84%9F%E6%83%B3)  
+[サイバーエージェント説明会(1)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A1)  
+[Dockerのコアについてまとめてみよう](https://yuminnk-devlog.vercel.app/docker)  
+[サイバーコネクトツー見学](https://yuminnk-devlog.vercel.app/%E8%A6%8B%E5%AD%A6)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%2038%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
