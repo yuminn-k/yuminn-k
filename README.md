@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[I/O Extended 2023 Seoul レビュー](https://yuminnk-devlog.vercel.app/io-extended-2023-seoul)  
-[開発者の素晴らしい助っ人、GitHub Copilot、君は誰？](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E5%90%9B%E8%AA%B0)  
-[Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
+[2023年上半期の振り返り： 大学生開発者としての成長と挑戦](https://yuminnk-devlog.vercel.app/2023%E5%B9%B4%E4%B8%8A%E5%8D%8A%E6%9C%9F%E6%8C%AF%E8%BF%94-%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%96%8B%E7%99%BA%E8%80%85%E6%88%90%E9%95%B7%E6%8C%91%E6%88%A6)  
+[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
+[CORSエラー、君は誰だ？](https://yuminnk-devlog.vercel.app/cors%E5%90%9B%E8%AA%B0)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-829%20hrs%2043%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
