@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[技術ブログをなぜ、どのように書くべきか](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)  
-[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[チームラボ説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2)  
+[Kubernetes Novice Tokyo #30で学んだ、Kubernetesのセキュリティとプログレッシブデリバリー](https://yuminnk-devlog.vercel.app/kubernetes-novice-tokyo-30%E5%AD%A6kubernetes)  
+[VS Code Git 10kの削除方法](https://yuminnk-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)  
+[Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-835%20hrs%207%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
