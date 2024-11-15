@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[Kubernetes Novice Tokyo #30で学んだ、Kubernetesのセキュリティとプログレッシブデリバリー](https://yuminnk-devlog.vercel.app/kubernetes-novice-tokyo-30%E5%AD%A6kubernetes)  
-[VS Code Git 10kの削除方法](https://yuminnk-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)  
-[Go、君は誰？](https://yuminnk-devlog.vercel.app/go%E5%90%9B%E8%AA%B0)  
+[EC2上のMySQLデータベースの自動バックアップ設定](https://yuminnk-devlog.vercel.app/ec2%E4%B8%8Amysql%E8%87%AA%E5%8B%95%E8%A8%AD%E5%AE%9A)  
+[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
+[上位1%エンジニアの7つの簡単な習慣](https://yuminnk-devlog.vercel.app/%E4%B8%8A%E4%BD%8D17%E7%B0%A1%E5%8D%98%E7%BF%92%E6%85%A3)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-838%20hrs%205%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
