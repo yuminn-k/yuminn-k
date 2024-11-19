@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[Dockerについて](https://yuminnk-devlog.vercel.app/docker)  
-[サイバーエージェント先輩との出会い](https://yuminnk-devlog.vercel.app/%E5%85%88%E8%BC%A9%E5%87%BA%E4%BC%9A)  
-[今年初めてのチームプロジェクト、「食べようか」の回顧](https://yuminnk-devlog.vercel.app/%E4%BB%8A%E5%B9%B4%E5%88%9D%E9%A3%9F%E5%9B%9E%E9%A1%A7)  
+[第２回 CO-WEEK ACADEMY レビュー](https://yuminnk-devlog.vercel.app/%E7%AC%AC%E5%9B%9E-co-week-academy)  
+[SoftBank Tech Nightレビュー](https://yuminnk-devlog.vercel.app/softbank-tech-night)  
+[2023 AI EXPO KOREA レビュー](https://yuminnk-devlog.vercel.app/2023-ai-expo-korea)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%204%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
