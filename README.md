@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[VS Code Git 10kの削除方法](https://yuminnk-devlog.vercel.app/vs-code-git-10k%E5%89%8A%E9%99%A4%E6%96%B9%E6%B3%95)  
-[混合コンテンツ(mixed content)エラー？](https://yuminnk-devlog.vercel.app/%E6%B7%B7%E5%90%88mixed-content)  
-[またもやN1合格証をいただきました](https://yuminnk-devlog.vercel.app/n1%E5%90%88%E6%A0%BC%E8%A8%BC)  
+[Next.js 14 ボイラープレートの作成：プロジェクトの効率を最大化](https://yuminnk-devlog.vercel.app/nextjs-14-%E4%BD%9C%E6%88%90%E5%8A%B9%E7%8E%87%E6%9C%80%E5%A4%A7%E5%8C%96)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
+[Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-849%20hrs%2043%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
