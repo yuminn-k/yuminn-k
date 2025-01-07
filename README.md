@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
-[Laravelでapi.phpとweb.phpの違いは？](https://yuminnk-devlog.vercel.app/laravelapiphpwebphp%E9%81%95)  
-[Docker Content Trust: コンテナイメージのセキュリティと整合性の保証](https://yuminnk-devlog.vercel.app/docker-content-trust-%E6%95%B4%E5%90%88%E6%80%A7%E4%BF%9D%E8%A8%BC)  
-[2023 첫번째 개취콘 🎤 JUMPIT TO FRONT-ENDレビュー](https://yuminnk-devlog.vercel.app/2023-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%B7%A8%EC%BD%98-jumpit-to-front-end)  
+[開発者の素晴らしい助っ人、GitHub Copilot、使う前に知るべきのこと](https://yuminnk-devlog.vercel.app/%E9%96%8B%E7%99%BA%E8%80%85%E7%B4%A0%E6%99%B4%E5%8A%A9%E4%BA%BAgithub-copilot%E4%BD%BF%E5%89%8D%E7%9F%A5)  
+[LaravelでADRパターンを適用： アプリケーション構造のモジュール化と保守性の向上](https://yuminnk-devlog.vercel.app/laraveladr%E9%81%A9%E7%94%A8-%E6%A7%8B%E9%80%A0%E5%8C%96%E4%BF%9D%E5%AE%88%E6%80%A7%E5%90%91%E4%B8%8A)  
+[Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由](https://yuminnk-devlog.vercel.app/docker%E6%9C%80%E9%81%A9%E5%8C%96packagejson%E5%85%88%E7%90%86%E7%94%B1)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-858%20hrs%2056%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
