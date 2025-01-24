@@ -6,9 +6,9 @@
 
 ### 📚 Recent Blog Posts
 
+[GDSC JOB FAIR 2023](https://yuminnk-devlog.vercel.app/gdsc-job-fair-2023)  
 [CI/CDパイプラインを構築してみよう](https://yuminnk-devlog.vercel.app/cicd%E6%A7%8B%E7%AF%89)  
-[CORSエラー、君は誰だ？](https://yuminnk-devlog.vercel.app/cors%E5%90%9B%E8%AA%B0)  
-[プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95)  
+[グローバルゾーン引継ぎ](https://yuminnk-devlog.vercel.app/%E5%BC%95%E7%B6%99)  
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,10 +56,5 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%2017%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 </div>
