@@ -39,8 +39,8 @@ Version Control: Git, GitHub
 
 <div align="center">
   <p align="center">
-    <a href="https://yuminnk-devlog.vercel.app/">
-      <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="Tech Blog Badge" />
+    <a href="https://qiita.com/gammjya/">
+      <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=qiita" alt="Tech Blog Badge" />
     </a>
     <a href="https://www.linkedin.com/in/yuminn-k/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
