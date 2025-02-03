@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Engineer
 - LIFULL Co., Ltd. Software Engineer
-- [I'm passionate about sharing knowledge and experiences](https://yuminnk-devlog.vercel.app/%E6%8A%80%E8%A1%93%E6%9B%B8)
+- [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
 ### 📚 Recent Blog Posts
 
