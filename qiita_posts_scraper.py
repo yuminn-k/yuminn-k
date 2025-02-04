@@ -4,6 +4,7 @@ import json
 import os
 import random
 from pathlib import Path
+from datetime import datetime
 
 def is_absolute(url):
     return bool(requests.utils.urlparse(url).netloc)
@@ -88,10 +89,12 @@ def get_user_posts(user_id):
         # 포스트 정보 정리
         posts_data = []
         for post in posts:
+            # ISO 형식의 날짜를 표준 형식으로 변환
+            created_at = datetime.fromisoformat(post['created_at'].replace('Z', '+00:00'))
             post_info = {
                 'title': post['title'],
                 'url': post['url'],
-                'created_at': post['created_at'],
+                'created_at': created_at.strftime('%Y-%m-%dT%H:%M:%SZ'),
                 'likes_count': post['likes_count'],
                 'tags': [tag['name'] for tag in post['tags']]
             }

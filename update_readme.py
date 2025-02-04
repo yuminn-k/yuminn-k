@@ -4,10 +4,19 @@ from datetime import datetime
 
 def format_post(post):
     """Qiita 포스트를 마크다운 형식으로 포맷팅합니다."""
-    title = post["title"]
-    url = post["url"]
-    # ISO 형식의 날짜를 더 읽기 쉬운 형식으로 변환
-    date = datetime.fromisoformat(post["created_at"].replace("Z", "+00:00")).strftime("%Y-%m-%d")
+    title = post.get("title", "제목 없음")
+    url = post.get("url", "#")
+    created_at = post.get("created_at", "")
+    
+    try:
+        # ISO 형식의 날짜를 더 읽기 쉬운 형식으로 변환
+        if created_at:
+            date = datetime.fromisoformat(created_at.replace("Z", "+00:00")).strftime("%Y-%m-%d")
+        else:
+            date = "날짜 없음"
+    except (ValueError, AttributeError):
+        date = "날짜 형식 오류"
+        
     return f"- [{title}]({url}) - {date}  "
 
 def update_readme(posts):
