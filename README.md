@@ -6,9 +6,10 @@
 
 ### 📚 Recent Blog Posts
 
-- [1日1コミット1年間の旅: 堅実さが成長につながった私の開発者の習慣](https://yuminnk-devlog.vercel.app/1%E6%97%A511%E5%B9%B4%E9%96%93%E6%97%85-%E5%A0%85%E5%AE%9F%E6%88%90%E9%95%B7%E7%A7%81%E9%96%8B%E7%99%BA%E8%80%85%E7%BF%92%E6%85%A3) - 날짜 없음
-- [チームラボ説明会(2)](https://yuminnk-devlog.vercel.app/%E8%AA%AC%E6%98%8E%E4%BC%9A2) - 날짜 없음
-- [プロダクトのクオリティーを決める開発の上流工程とは何か？](https://yuminnk-devlog.vercel.app/%E6%B1%BA%E9%96%8B%E7%99%BA%E4%B8%8A%E6%B5%81%E5%B7%A5%E7%A8%8B%E4%BD%95) - 날짜 없음
+- [OllamaとSelf-hosting DeepSeekで簡単なVSCode Extension作成](https://qiita.com/gammjya/items/c687bb82ef2b02fab8f3) - 2025-02-03
+- [RAGに代わる新しいアプローチ：Cache-Augmented Generation (CAG)の可能性](https://qiita.com/gammjya/items/4aec6ec2c9f799c4aa80) - 2025-01-29
+- [(翻訳) 機能分割設計 - 最高のフロントエンドアーキテクチャー](https://qiita.com/gammjya/items/02ede0534a7769b47142) - 2025-01-26
+
 
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
@@ -56,5 +57,7 @@ Version Control: Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
+  ![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs-blue)
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
   <!--END_SECTION:waka-->
 </div>
