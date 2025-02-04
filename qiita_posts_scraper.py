@@ -89,31 +89,42 @@ def get_user_posts(user_id):
         # 포스트 정보 정리
         posts_data = []
         for post in posts:
-            # ISO 형식의 날짜를 표준 형식으로 변환
-            created_at = datetime.fromisoformat(post['created_at'].replace('Z', '+00:00'))
-            post_info = {
-                'title': post['title'],
-                'url': post['url'],
-                'created_at': created_at.strftime('%Y-%m-%dT%H:%M:%SZ'),
-                'likes_count': post['likes_count'],
-                'tags': [tag['name'] for tag in post['tags']]
-            }
-            posts_data.append(post_info)
+            try:
+                # ISO 형식의 날짜를 표준 형식으로 변환
+                created_at = datetime.fromisoformat(post.get('created_at', '').replace('Z', '+00:00'))
+                post_info = {
+                    'title': post.get('title', '제목 없음'),
+                    'url': post.get('url', '#'),
+                    'created_at': created_at.strftime('%Y-%m-%dT%H:%M:%SZ'),
+                    'likes_count': post.get('likes_count', 0),
+                    'tags': [tag.get('name', '') for tag in post.get('tags', [])]
+                }
+                posts_data.append(post_info)
+            except (ValueError, AttributeError, KeyError) as e:
+                print(f"포스트 데이터 처리 중 오류 발생: {e}")
+                continue
             
         return posts_data
         
     except requests.exceptions.RequestException as e:
         print(f"API 요청 중 에러 발생: {e}")
         return []
+    except Exception as e:
+        print(f"예상치 못한 오류 발생: {e}")
+        return []
 
 def main():
     user_id = "gammjya"
     output_file = "output.json"
     
-    # Qiita 포스트 가져오기
-    posts = get_user_posts(user_id)
-    
-    if posts:
+    try:
+        # Qiita 포스트 가져오기
+        posts = get_user_posts(user_id)
+        
+        if not posts:
+            print("가져온 포스트가 없습니다.")
+            posts = []  # 빈 리스트로 초기화
+        
         # 최신 3개의 포스트만 선택
         recent_posts = posts[:3]
         
@@ -127,6 +138,10 @@ def main():
             print(f"   작성일: {post['created_at']}")
             print(f"   좋아요: {post['likes_count']}")
             print(f"   태그: {', '.join(post['tags'])}")
+    except Exception as e:
+        print(f"메인 프로세스 실행 중 오류 발생: {e}")
+        # 오류가 발생해도 빈 JSON 파일 생성
+        save_output_to_json([], output_file)
 
 if __name__ == "__main__":
     main()
