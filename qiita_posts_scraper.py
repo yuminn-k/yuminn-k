@@ -167,7 +167,7 @@ def update_readme(posts):
         # 포스트 목록 생성
         posts_md = ""
         for post in posts:
-            posts_md += f"- [{post['title']}]({post['url']}) - {post['created_at']}\n"
+            posts_md += f"- [{post['title']}]({post['url']})\n"
         
         # 템플릿의 {posts} 부분을 실제 포스트 목록으로 교체
         readme_content = template.replace('{posts}', posts_md)
