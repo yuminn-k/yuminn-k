@@ -77,18 +77,25 @@ def get_user_posts(user_id):
         'Accept': 'application/json',
     }
 
+    print(f"\n[DEBUG] Qiita API 요청 시작: {base_url}")
+    
     qiita_token = os.environ.get('QIITA_TOKEN')
     if qiita_token:
         headers['Authorization'] = f'Bearer {qiita_token}'
+        print("[DEBUG] Qiita 토큰이 설정되었습니다.")
+    else:
+        print("[DEBUG] 경고: Qiita 토큰이 설정되지 않았습니다.")
     
     try:
+        print("[DEBUG] API 요청 시도 중...")
         response = requests.get(base_url, headers=headers)
         response.raise_for_status()
         posts = response.json()
+        print(f"[DEBUG] API 응답 성공: {len(posts)}개의 포스트를 받았습니다.")
         
         # 포스트 정보 정리
         posts_data = []
-        for post in posts:
+        for i, post in enumerate(posts, 1):
             try:
                 # ISO 형식의 날짜를 표준 형식으로 변환
                 created_at = datetime.fromisoformat(post.get('created_at', '').replace('Z', '+00:00'))
@@ -100,47 +107,57 @@ def get_user_posts(user_id):
                     'tags': [tag.get('name', '') for tag in post.get('tags', [])]
                 }
                 posts_data.append(post_info)
+                print(f"[DEBUG] 포스트 {i} 처리 완료: {post_info['title']}")
             except (ValueError, AttributeError, KeyError) as e:
-                print(f"포스트 데이터 처리 중 오류 발생: {e}")
+                print(f"[DEBUG] 포스트 {i} 처리 중 오류 발생: {e}")
                 continue
             
+        print(f"[DEBUG] 총 {len(posts_data)}개의 포스트 처리 완료")
         return posts_data
         
     except requests.exceptions.RequestException as e:
-        print(f"API 요청 중 에러 발생: {e}")
+        print(f"[DEBUG] API 요청 실패: {e}")
+        print(f"[DEBUG] 응답 상태 코드: {getattr(e.response, 'status_code', 'N/A')}")
+        print(f"[DEBUG] 응답 내용: {getattr(e.response, 'text', 'N/A')}")
         return []
     except Exception as e:
-        print(f"예상치 못한 오류 발생: {e}")
+        print(f"[DEBUG] 예상치 못한 오류 발생: {e}")
         return []
 
 def main():
     user_id = "gammjya"
     output_file = "output.json"
     
+    print("\n[DEBUG] 스크립트 실행 시작")
+    
     try:
-        # Qiita 포스트 가져오기
+        print(f"[DEBUG] {user_id}의 포스트 가져오기 시작")
         posts = get_user_posts(user_id)
         
         if not posts:
-            print("가져온 포스트가 없습니다.")
-            posts = []  # 빈 리스트로 초기화
+            print("[DEBUG] 가져온 포스트가 없습니다.")
+            posts = []
+        else:
+            print(f"[DEBUG] {len(posts)}개의 포스트를 가져왔습니다.")
         
         # 최신 3개의 포스트만 선택
         recent_posts = posts[:3]
+        print(f"[DEBUG] 최신 {len(recent_posts)}개의 포스트 선택됨")
         
         # JSON 파일로 저장
+        print(f"[DEBUG] {output_file}에 포스트 저장 시도")
         save_output_to_json(recent_posts, output_file)
         
-        print(f"\n{user_id}의 최신 포스트 목록:")
+        print(f"\n[DEBUG] {user_id}의 최신 포스트 목록:")
         for i, post in enumerate(recent_posts, 1):
-            print(f"\n{i}. {post['title']}")
-            print(f"   URL: {post['url']}")
-            print(f"   작성일: {post['created_at']}")
-            print(f"   좋아요: {post['likes_count']}")
-            print(f"   태그: {', '.join(post['tags'])}")
+            print(f"\n[DEBUG] {i}. {post['title']}")
+            print(f"[DEBUG]    URL: {post['url']}")
+            print(f"[DEBUG]    작성일: {post['created_at']}")
+            print(f"[DEBUG]    좋아요: {post['likes_count']}")
+            print(f"[DEBUG]    태그: {', '.join(post['tags'])}")
     except Exception as e:
-        print(f"메인 프로세스 실행 중 오류 발생: {e}")
-        # 오류가 발생해도 빈 JSON 파일 생성
+        print(f"[DEBUG] 메인 프로세스 실행 중 오류 발생: {e}")
+        print("[DEBUG] 빈 JSON 파일 생성")
         save_output_to_json([], output_file)
 
 if __name__ == "__main__":
