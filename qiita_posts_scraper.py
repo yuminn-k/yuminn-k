@@ -92,39 +92,17 @@ def get_user_posts(user_id):
         response = requests.get(base_url, headers=headers)
         print(f"[DEBUG] 응답 상태 코드: {response.status_code}")
         
-        if response.status_code != 200:
-            print(f"[DEBUG] API 응답 에러: {response.text}")
+        if response.status_code == 200:
+            return response.json()
+        else:
+            print(f"[DEBUG] API 요청 실패: {response.status_code}")
+            print(f"[DEBUG] 응답 내용: {response.text}")
             return []
             
-        response.raise_for_status()
-        posts = response.json()
-        print(f"[DEBUG] 가져온 포스트 수: {len(posts)}")
-
-        posts_data = []
-        for i, post in enumerate(posts, 1):
-            try:
-                post_info = {
-                    'title': post['title'],
-                    'url': post['url'],
-                    'created_at': post['created_at'].split('T')[0],
-                    'likes_count': post['likes_count'],
-                    'tags': [tag['name'] for tag in post['tags']]
-                }
-                posts_data.append(post_info)
-                print(f"[DEBUG] 포스트 {i} 처리 완료: {post_info['title']}")
-            except (KeyError, AttributeError) as e:
-                print(f"[DEBUG] 포스트 {i} 데이터 처리 중 오류: {str(e)}")
-                continue
-
-        return posts_data
-
     except requests.exceptions.RequestException as e:
         print(f"[DEBUG] API 요청 실패: {str(e)}")
         if hasattr(e.response, 'text'):
             print(f"[DEBUG] 응답 내용: {e.response.text}")
-        return []
-    except Exception as e:
-        print(f"[DEBUG] 예상치 못한 오류: {str(e)}")
         return []
 
 def main():

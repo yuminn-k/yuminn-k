@@ -1,57 +1,47 @@
-name: Update README
+name: Update README with Blog Posts
 
 on:
   schedule:
-    - cron: "0 20 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 매일 00:00 UTC에 실행
+  workflow_dispatch: # 수동 실행 가능
 
 jobs:
   update_readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Setup Git identity
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.8"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Configure Git
         run: |
           git config --global user.name 'yuminnk'
           git config --global user.email 'gimyumin40@gmail.com'
 
-      - name: Set up Docker Buildx
-        uses: docker/setup-buildx-action@v1
-
-      - name: Build and run Docker image
+      - name: Run blog post scraper
         env:
           QIITA_TOKEN: ${{ secrets.QIITA_TOKEN }}
         run: |
-          docker build -t blog_scraper .
-          docker run \
-            --env QIITA_TOKEN="${QIITA_TOKEN}" \
-            --env URL="https://yuminnk-devlog.vercel.app" \
-            --env CSS_SELECTOR="#__next>div:nth-child(2)>div>div.notion-frame>div>main>div.notion-page-content>article>div.notion-collection.notion-block-52c3f72df427430ca4768e53c36a61c6>div:nth-child(2)>div>div" \
-            blog_scraper
+          python qiita_posts_scraper.py
 
-      - name: Copy updated README.md
-        run: |
-          CONTAINER_ID=$(docker ps -lq)
-          if [ ! -z "$CONTAINER_ID" ]; then
-            docker cp $CONTAINER_ID:/app/README.md .
-            echo "Successfully copied README.md from container"
-          else
-            echo "Error: No container found"
-            exit 1
-          fi
-
-      - name: Commit changes
+      - name: Commit and push if changed
         run: |
           if git diff --quiet README.md; then
             echo "No changes to commit"
           else
             git add README.md
             git commit -m "Updated README.md with recent blog posts"
-            git push origin main
+            git push
           fi
