@@ -43,5 +43,5 @@ jobs:
           else
             git add README.md
             git commit -m "Updated README.md with recent blog posts"
-            git push
+            git push origin HEAD:main
           fi

@@ -120,6 +120,19 @@ def main():
             posts = []
         else:
             print(f"[DEBUG] {len(posts)}개의 포스트를 가져왔습니다.")
+            
+            # 포스트 데이터 가공
+            formatted_posts = []
+            for post in posts:
+                formatted_post = {
+                    'title': post['title'],
+                    'url': post['url'],
+                    'created_at': post['created_at'].split('T')[0],
+                    'likes_count': post['likes_count'],
+                    'tags': [tag['name'] for tag in post['tags']]  # 태그 처리 수정
+                }
+                formatted_posts.append(formatted_post)
+            posts = formatted_posts
         
         # 최신 3개의 포스트만 선택
         recent_posts = posts[:3]
@@ -128,6 +141,9 @@ def main():
         # JSON 파일로 저장
         print(f"[DEBUG] {output_file}에 포스트 저장 시도")
         save_output_to_json(recent_posts, output_file)
+        
+        # README.md 업데이트
+        update_readme(recent_posts)
         
         print(f"\n[DEBUG] {user_id}의 최신 포스트 목록:")
         for i, post in enumerate(recent_posts, 1):
@@ -140,6 +156,29 @@ def main():
         print(f"[DEBUG] 메인 프로세스 실행 중 오류 발생: {e}")
         print("[DEBUG] 빈 JSON 파일 생성")
         save_output_to_json([], output_file)
+
+def update_readme(posts):
+    """README.md 파일을 업데이트합니다."""
+    try:
+        # README 템플릿 읽기
+        with open('README_template.md', 'r', encoding='utf-8') as f:
+            template = f.read()
+        
+        # 포스트 목록 생성
+        posts_md = ""
+        for post in posts:
+            posts_md += f"- [{post['title']}]({post['url']}) - {post['created_at']}\n"
+        
+        # 템플릿의 {posts} 부분을 실제 포스트 목록으로 교체
+        readme_content = template.replace('{posts}', posts_md)
+        
+        # 새로운 README.md 저장
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(readme_content)
+            
+        print("README.md 업데이트 성공!")
+    except Exception as e:
+        print(f"README.md 업데이트 실패: {e}")
 
 if __name__ == "__main__":
     main()
