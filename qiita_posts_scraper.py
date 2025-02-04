@@ -73,34 +73,33 @@ def save_output_to_json(posts_data, output_file):
 def get_user_posts(user_id):
     """특정 Qiita 유저의 포스트 목록을 가져옵니다."""
     base_url = f"https://qiita.com/api/v2/users/{user_id}/items"
+    
+    # 환경 변수에서 토큰 가져오기
+    token = os.environ.get('QIITA_TOKEN')
+    
     headers = {
         'Accept': 'application/json',
     }
-
-    print(f"\n[DEBUG] Qiita API 요청 시작: {base_url}")
     
-    qiita_token = os.environ.get('QIITA_TOKEN')
-    if qiita_token:
-        headers['Authorization'] = f'Bearer {qiita_token}'
+    if token:
+        headers['Authorization'] = f'Bearer {token}'
         print("[DEBUG] Qiita 토큰이 설정되었습니다.")
     else:
         print("[DEBUG] 경고: Qiita 토큰이 설정되지 않았습니다.")
-    
+
     try:
-        print("[DEBUG] API 요청 시도 중...")
+        print(f"[DEBUG] API 요청 시작: {base_url}")
         response = requests.get(base_url, headers=headers)
-        
-        # 응답 상태 코드 확인
         print(f"[DEBUG] 응답 상태 코드: {response.status_code}")
+        
         if response.status_code != 200:
             print(f"[DEBUG] API 응답 에러: {response.text}")
             return []
             
         response.raise_for_status()
         posts = response.json()
-        print(f"[DEBUG] API 응답 성공: {len(posts)}개의 포스트를 받았습니다.")
-        
-        # 포스트 정보 정리
+        print(f"[DEBUG] 가져온 포스트 수: {len(posts)}")
+
         posts_data = []
         for i, post in enumerate(posts, 1):
             try:
@@ -116,14 +115,11 @@ def get_user_posts(user_id):
             except (KeyError, AttributeError) as e:
                 print(f"[DEBUG] 포스트 {i} 데이터 처리 중 오류: {str(e)}")
                 continue
-        
-        print(f"[DEBUG] 총 {len(posts_data)}개의 포스트 처리 완료")
+
         return posts_data
-        
+
     except requests.exceptions.RequestException as e:
         print(f"[DEBUG] API 요청 실패: {str(e)}")
-        print(f"[DEBUG] 요청 URL: {base_url}")
-        print(f"[DEBUG] 요청 헤더: {headers}")
         if hasattr(e.response, 'text'):
             print(f"[DEBUG] 응답 내용: {e.response.text}")
         return []
