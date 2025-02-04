@@ -89,6 +89,13 @@ def get_user_posts(user_id):
     try:
         print("[DEBUG] API 요청 시도 중...")
         response = requests.get(base_url, headers=headers)
+        
+        # 응답 상태 코드 확인
+        print(f"[DEBUG] 응답 상태 코드: {response.status_code}")
+        if response.status_code != 200:
+            print(f"[DEBUG] API 응답 에러: {response.text}")
+            return []
+            
         response.raise_for_status()
         posts = response.json()
         print(f"[DEBUG] API 응답 성공: {len(posts)}개의 포스트를 받았습니다.")
@@ -97,31 +104,31 @@ def get_user_posts(user_id):
         posts_data = []
         for i, post in enumerate(posts, 1):
             try:
-                # ISO 형식의 날짜를 표준 형식으로 변환
-                created_at = datetime.fromisoformat(post.get('created_at', '').replace('Z', '+00:00'))
                 post_info = {
-                    'title': post.get('title', '제목 없음'),
-                    'url': post.get('url', '#'),
-                    'created_at': created_at.strftime('%Y-%m-%dT%H:%M:%SZ'),
-                    'likes_count': post.get('likes_count', 0),
-                    'tags': [tag.get('name', '') for tag in post.get('tags', [])]
+                    'title': post['title'],
+                    'url': post['url'],
+                    'created_at': post['created_at'].split('T')[0],
+                    'likes_count': post['likes_count'],
+                    'tags': [tag['name'] for tag in post['tags']]
                 }
                 posts_data.append(post_info)
                 print(f"[DEBUG] 포스트 {i} 처리 완료: {post_info['title']}")
-            except (ValueError, AttributeError, KeyError) as e:
-                print(f"[DEBUG] 포스트 {i} 처리 중 오류 발생: {e}")
+            except (KeyError, AttributeError) as e:
+                print(f"[DEBUG] 포스트 {i} 데이터 처리 중 오류: {str(e)}")
                 continue
-            
+        
         print(f"[DEBUG] 총 {len(posts_data)}개의 포스트 처리 완료")
         return posts_data
         
     except requests.exceptions.RequestException as e:
-        print(f"[DEBUG] API 요청 실패: {e}")
-        print(f"[DEBUG] 응답 상태 코드: {getattr(e.response, 'status_code', 'N/A')}")
-        print(f"[DEBUG] 응답 내용: {getattr(e.response, 'text', 'N/A')}")
+        print(f"[DEBUG] API 요청 실패: {str(e)}")
+        print(f"[DEBUG] 요청 URL: {base_url}")
+        print(f"[DEBUG] 요청 헤더: {headers}")
+        if hasattr(e.response, 'text'):
+            print(f"[DEBUG] 응답 내용: {e.response.text}")
         return []
     except Exception as e:
-        print(f"[DEBUG] 예상치 못한 오류 발생: {e}")
+        print(f"[DEBUG] 예상치 못한 오류: {str(e)}")
         return []
 
 def main():
