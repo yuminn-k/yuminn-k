@@ -6,9 +6,6 @@
 
 ### 📚 Recent Blog Posts
 
-- [OllamaとSelf-hosting DeepSeekで簡単なVSCode Extension作成](https://qiita.com/gammjya/items/c687bb82ef2b02fab8f3)
-- [RAGに代わる新しいアプローチ：Cache-Augmented Generation (CAG)の可能性](https://qiita.com/gammjya/items/4aec6ec2c9f799c4aa80)
-- [(翻訳) 機能分割設計 - 最高のフロントエンドアーキテクチャー](https://qiita.com/gammjya/items/02ede0534a7769b47142)
 
 
 ### 🌟 Areas of Interest
