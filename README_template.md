@@ -15,13 +15,13 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:      Golang, PHP, TypeScript
-Infrastructure: Kubernetes, Docker, Terraform
-Monitoring:     Prometheus, Grafana
-Cloud:          AWS
-CI/CD:          GitHub Actions
-Database:       MySQL, PostgreSQL, MongoDB
-Version Control: Git, GitHub
+Languages:                Golang, PHP, TypeScript
+Infrastructure:           Kubernetes, Docker, Terraform(Now Studying)
+Monitoring(Now Studying): Prometheus, Grafana
+Cloud:                    AWS
+CI/CD:                    GitHub Actions
+Database:                 MySQL, PostgreSQL, MongoDB
+Version Control:          Git, GitHub
 ```
 
 ### 📊 GitHub Stats
