@@ -59,7 +59,7 @@ Version Control:      Git, GitHub
   </p>
 
   <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs-blue)
+  [![wakatime](https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg)](https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7)
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
   <!--END_SECTION:waka-->
 </div>
