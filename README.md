@@ -18,13 +18,13 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:            Go, PHP, TypeScript
-Infrastructure:       *Kubernetes, Docker, *Terraform
-Monitoring:           *Prometheus, *Grafana
-Cloud:                AWS
-CI/CD:                GitHub Actions
-Database:             MySQL, PostgreSQL, MongoDB
-Version Control:      Git, GitHub
+Languages:            Go, PHP, TypeScript
+Infrastructure:       *Kubernetes, Docker, *Terraform, *Kafka
+Monitoring:           *Prometheus, *Grafana
+Cloud:                AWS
+CI/CD:                GitHub Actions
+Database:             MySQL, PostgreSQL, MongoDB, Redis
+Version Control:      Git, GitHub
 
 *: Now Studying
 ```
