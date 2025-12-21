@@ -4,10 +4,6 @@
 - LIFULL Co., Ltd. Application Engineer
 - [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
-### 📚 Recent Blog Posts
-
-{posts}
-
 ### 🌟 Areas of Interest
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
 - Leadership, Mentoring, Writing, Presentation
@@ -25,17 +21,6 @@ Version Control:      Git, GitHub
 
 *: Now Studying
 ```
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuminn-k&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true&include_all_commits=true&rank_icon=percentile" width="40%" />
-  </a>
-  <a href="https://github.com/yuminn-k/github-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yuminn_k&layout=compact&langs_count=10&hide=blade%20template,java,markdown&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width="38%" />
-  </a>
-</div>
 
 ### 🔗 Contact & Links
 
@@ -55,8 +40,4 @@ Version Control:      Git, GitHub
     </a>
   </p>
 
-  <!--START_SECTION:waka-->
-  [![wakatime](https://wakatime.com/badge/user/2a5b0c92-79d5-4609-b48d-2ca2d0bccde7.svg)](https://wakatime.com/@2a5b0c92-79d5-4609-b48d-2ca2d0bccde7)
-  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.7%20million%20lines%20of%20code-blue)
-  <!--END_SECTION:waka-->
 </div>
