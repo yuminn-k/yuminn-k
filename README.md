@@ -1,7 +1,7 @@
 ## Hello, I'm Yumin 👋
 
 ### 👨‍💻 Software Engineer
-- LIFULL Co., Ltd. Product Engineer
+- LIFULL Co., Ltd. Application Engineer
 - [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
 ### 🌟 Areas of Interest
