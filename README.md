@@ -2,7 +2,6 @@
 
 ### 👨‍💻 Software Engineer
 - LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ )
-- エンジニアのミカタ DX Engineer (Contract, 26.02 ~ )
 - [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
 ### 🌟 Areas of Interest
