@@ -12,14 +12,12 @@
 
 ```yaml
 Languages:            Go, PHP, TypeScript
-Infrastructure:       *Kubernetes, Docker, *Terraform, *Kafka
-Monitoring:           *Prometheus, *Grafana
+Infrastructure:       Kubernetes, Docker, Terraform, Kafka
+Monitoring:           Prometheus, Grafana, Loki
 Cloud:                AWS
 CI/CD:                GitHub Actions
 Database:             MySQL, PostgreSQL, MongoDB, Redis
 Version Control:      Git, GitHub
-
-*: Now Studying
 ```
 
 ### 🔗 Contact & Links
