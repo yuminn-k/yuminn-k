@@ -8,6 +8,14 @@
 - SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
 - Leadership, Mentoring, Writing, Presentation
 
+### 🤝 Open Source Contributions
+
+<!-- OSS_CONTRIBUTIONS_START -->
+| Project | Contribution | PR | Merged |
+| --- | --- | --- | --- |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Resolved Steam monitor hostnames before Steam API `addr` filtering and added backend tests. | [#7542](https://github.com/louislam/uptime-kuma/pull/7542) | 2026-06-25 |
+<!-- OSS_CONTRIBUTIONS_END -->
+
 ### 🛠 Tech Stack
 
 ```yaml
