@@ -22,7 +22,7 @@
 ```yaml
 Languages:            Go, PHP, TypeScript
 Infrastructure:       Kubernetes, Docker, Terraform, Kafka
-Monitoring:           Prometheus, Grafana, Loki
+Monitoring:           Prometheus, Grafana, Loki, Telegraf, InfluxDB
 Cloud:                AWS
 CI/CD:                GitHub Actions
 Database:             MySQL, PostgreSQL, MongoDB, Redis
