@@ -7,7 +7,7 @@
 
 ### 🌟 Areas of Interest
 - Kubernetes
-- AWS
+- AWS (AWS Certified DevOps Engineer - Professional, AWS Certified Solutions Architect - Associate)
 - Observability
 
 ### 🤝 Open Source Contributions
