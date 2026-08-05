@@ -1,12 +1,14 @@
 ## Hello, I'm Yumin 👋
 
-### 👨‍💻 Software Engineer
-- LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ )
+### 👨‍💻 Site Reliability Engineer
+- nextbeat Co., Ltd. Site Reliability Engineer (Permanent, 26.09 ~ )
+- LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ 26.08)
 - [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
 ### 🌟 Areas of Interest
-- SRE (Site Reliability Engineering - Especially, Monitoring Architecture Design, IaC, K8s, Golang)
-- Leadership, Mentoring, Writing, Presentation
+- Kubernetes
+- AWS
+- Observability
 
 ### 🤝 Open Source Contributions
 
