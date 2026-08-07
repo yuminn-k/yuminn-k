@@ -3,7 +3,6 @@
 ### 👨‍💻 Site Reliability Engineer
 - nextbeat Co., Ltd. Site Reliability Engineer (Permanent, 26.09 ~ )
 - LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ 26.08)
-- [I'm passionate about sharing knowledge and experiences](https://qiita.com/gammjya)
 
 ### 🌟 Areas of Interest
 - Kubernetes
