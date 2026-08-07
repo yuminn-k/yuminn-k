@@ -19,15 +19,13 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:            Go, PHP, TypeScript
-Infrastructure:       *Kubernetes, Docker, *Terraform, *Kafka
-Monitoring:           *Prometheus, *Grafana
-Cloud:                AWS
-CI/CD:                GitHub Actions
-Database:             MySQL, PostgreSQL, MongoDB, Redis
-Version Control:      Git, GitHub
-
-*: Now Studying
+Languages:                    Go, TypeScript, PHP
+Platform & Orchestration:    Kubernetes, Istio, Docker
+Infrastructure as Code:      Terraform
+Observability:               Prometheus, Grafana, Loki, Tempo, Telegraf, InfluxDB
+Chaos Engineering:           Chaos Toolkit
+Cloud & CI/CD:               AWS, GitHub Actions
+Data Stores & Messaging:     MySQL, PostgreSQL, MongoDB, Redis, Kafka
 ```
 
 ### 🔗 Contact & Links
