@@ -1,10 +1,11 @@
 ## Hello, I'm Yumin 👋
 
-### 👨‍💻 Site Reliability Engineer
+### 👨‍💻 Career
 - nextbeat Co., Ltd. Site Reliability Engineer (Permanent, 26.09 ~ )
 - LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ 26.08)
 
 ### 🌟 Areas of Interest
+- Site Reliability Engineering
 - Kubernetes
 - AWS (AWS Certified DevOps Engineer - Professional, AWS Certified Solutions Architect - Associate)
 - Observability
