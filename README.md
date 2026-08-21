@@ -1,6 +1,6 @@
 ## Hello, I'm Yumin 👋
 
-### 👨‍💻 Career
+### 👨‍💻 My Career
 - nextbeat Co., Ltd. Site Reliability Engineer (Permanent, 26.09 ~ )
 - LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ 26.08)
 
@@ -22,7 +22,7 @@
 ### 🛠 Tech Stack
 
 ```yaml
-Languages:                Go, TypeScript, PHP
+Languages:                Go, TypeScript, PHP, Python
 Platform & Orchestration: Kubernetes, Istio, Docker
 Infrastructure as Code:   Terraform
 Observability:            Prometheus, Grafana, Loki, Tempo, Telegraf, InfluxDB
