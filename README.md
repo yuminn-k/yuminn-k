@@ -1,8 +1,8 @@
 ## Hello, I'm Yumin 👋
 
 ### 👨‍💻 My Career
-- nextbeat Co., Ltd. Site Reliability Engineer (Permanent, 26.09 ~ )
-- LIFULL Co., Ltd. Product Engineer (Permanent, 25.04 ~ 26.08)
+- [nextbeat Co., Ltd.](https://www.nextbeat.co.jp/) Site Reliability Engineer (Permanent, 26.09 ~ )
+- [LIFULL Co., Ltd.](https://lifull.com/) Product Engineer (Permanent, 25.04 ~ 26.08)
 
 ### 🌟 Areas of Interest
 - Site Reliability Engineering
