@@ -26,7 +26,7 @@
 Languages:                Go, TypeScript, PHP, Python
 Platform & Orchestration: Kubernetes, Istio, Docker, Argo CD
 Infrastructure as Code:   Terraform
-Observability:            Prometheus, Grafana, Loki, Tempo, Telegraf, InfluxDB
+Observability:            Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Telegraf, InfluxDB
 Chaos Engineering:        Chaos Toolkit, AWS Fault Injection Service (AWS FIS)
 Cloud & CI/CD:            AWS, GitHub Actions
 Data Stores & Messaging:  MySQL, PostgreSQL, MongoDB, Redis, Kafka
