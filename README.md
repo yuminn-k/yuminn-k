@@ -5,10 +5,10 @@
 - [LIFULL Co., Ltd.](https://lifull.com/) Product Engineer (Permanent, 25.04 ~ 26.08)
 
 ### 🌟 Areas of Interest
-- Site Reliability Engineering
-- Kubernetes
-- AWS (AWS Certified DevOps Engineer - Professional, AWS Certified Solutions Architect - Associate)
-- Observability
+- ☁️ Cloud Native & Infrastructure
+- 🚥 Site Reliability Engineering
+- 🚉 Platform Engineering
+- 👀 Observability
 
 ### 🤝 Open Source Contributions
 
