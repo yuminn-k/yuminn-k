@@ -22,15 +22,3 @@
 
 [All merged upstream PRs →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Ayuminn-k+-user%3Ayuminn-k+-org%3Anextbeat-dev+-org%3Aformona&type=pullrequests)
 <!-- OSS_CONTRIBUTIONS_END -->
-
-### 🛠 Tech Stack
-
-```yaml
-Languages:                Go, TypeScript, PHP, Python
-Platform & Orchestration: Kubernetes, Istio, Docker, Argo CD
-Infrastructure as Code:   Terraform
-Observability:            Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Telegraf, InfluxDB
-Chaos Engineering:        Chaos Toolkit, AWS Fault Injection Service (AWS FIS)
-Cloud & CI/CD:            AWS, GitHub Actions
-Data Stores & Messaging:  MySQL, PostgreSQL, MongoDB, Redis, Kafka
-```
